@@ -1,8 +1,3 @@
-/*
-Tekken Skin by Peter Lawrence https://steamcommunity.com/id/PeterLawrence/
-https://gamepadviewer.com/?p=1&s=7&editcss=https://raw.githubusercontent.com/Pete-Lawrence/Tekken-Gamepad/master/tekken.css#
-*/
-
 .controller.fight-stick { background: url(https://raw.githubusercontent.com/Pete-Lawrence/gamepadviewer/master/base_4.png) center no-repeat; }
 .fight-stick.disconnected { background: url(https://gamepadviewer.com/stick-assets/disconnected.svgz) no-repeat; }
 
