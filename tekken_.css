@@ -1,0 +1,98 @@
+/*
+Tekken Skin by Peter Lawrence https://steamcommunity.com/id/PeterLawrence/
+https://gamepadviewer.com/?p=1&s=7&editcss=https://raw.githubusercontent.com/Pete-Lawrence/Tekken-Gamepad/master/tekken.css#
+*/
+
+.controller.custom { background: url(https://github.com/Pete-Lawrence/Tekken-Gamepad/master/base_4.png) center no-repeat; }
+.custom.disconnected { background: url(https://gamepadviewer.com/stick-assets/disconnected.svgz) no-repeat; }
+
+/*Rage Art*/
+.custom .bumpers , 
+.custom .bumper {
+	width: 128px;
+	height: 128px;
+	right: 152px;
+	top: 141px;
+	border-radius: 0%;
+	background: url(https://github.com/Pete-Lawrence/Tekken-Gamepad/master/rageart.png);
+	}
+
+/*Face Buttons*/
+.custom .a { bottom: 56px; left: 154px; }
+.custom .b { bottom: 69px; right: -50px; }
+.custom .x { top: 108px; left: 154px; }
+.custom .y { right: -50px; top: 93px; }
+
+.custom .button.a.pressed  { background: #60a94f; }
+.custom .button.b.pressed  { background: #bb2f4f; }
+.custom .button.x.pressed  { background: #18a3c3; }
+.custom .button.y.pressed  { background: #d9bf2c; }
+
+/*Movement Inputs*/
+.custom .fstick {
+	width: 218px;
+	height: 218px;
+	top: 158px;
+	left: 365px;
+	background: url(https://github.com/Pete-Lawrence/Tekken-Gamepad/master/stick_new.png);
+	transform: scale(0.5);
+	transform-origin: left;
+	}
+
+.custom .fstick.up,
+.custom .fstick.down,
+.custom .fstick.left,
+.custom .fstick.right,
+.custom .fstick.up.right,
+.custom .fstick.up.left,
+.custom .fstick.down.right,
+.custom .fstick.down.left {
+	background-position-x: -218px;
+	width: 327px;
+	left: 415px;
+	}
+
+.custom .fstick.up 			{ transform: scale(0.5) rotate(270deg); }
+.custom .fstick.down 		{ transform: scale(0.5) rotate(90deg); }
+.custom .fstick.left 		{ transform: scale(0.5) rotate(180deg); }
+.custom .fstick.right 		{ transform: scale(0.5) rotate(0deg); }
+.custom .fstick.up.right 	{ transform: scale(0.5) rotate(315deg); }
+.custom .fstick.up.left 	{ transform: scale(0.5) rotate(225deg); }
+.custom .fstick.down.right 	{ transform: scale(0.5) rotate(45deg); }
+.custom .fstick.down.left 	{ transform: scale(0.5) rotate(135deg); }
+
+/*Essential Tweaks*/
+.custom .button,
+.custom .trigger-button {
+	width: 98px;
+	height: 98px;
+	background: #424c4b;
+	}
+
+.custom .trigger-button,
+/**/.custom .triggers,
+/**/.custom .trigger-button.left,
+/**/.custom .trigger-button.right,
+/**/.custom .trigger-button.left.pressed,
+/**/.custom .trigger-button.right.pressed,
+/**/.custom .trigger-button.pressed,
+.custom .button,
+.custom .bumper,
+.custom .bumpers,
+.custom .bumper.left,
+.custom .bumper.left.pressed,
+.custom .quadrant,
+.custom .arrows ,
+.custom .back,
+.custom .start ,
+.custom .back.pressed,
+.custom .start.pressed {
+	visibility: hidden;
+	}
+
+.custom .button.pressed,
+.custom .bumper.pressed {
+	transform: translateY(0px);
+	-webkit-filter: invert(0);
+	visibility: visible;
+	}
