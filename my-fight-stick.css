@@ -1,19 +1,10 @@
 /*
-Tekken Inputs Styling NORMAL VER. by Peter Lawrence https://steamcommunity.com/id/PeterLawrence/
-NORMAL VER. https://gamepadviewer.com/?p=1&s=7&editcss=https://dl.dropbox.com/s/la07n6iv3w7tkqq/my-fight-stick.css#
-PETER'S CONFIG. https://gamepadviewer.com/?p=1&s=7&map=%7B%22mapping%22%3A%5B%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%226%22%2C%22disabled%22%3Afalse%2C%22choiceType%22%3A%22buttons%22%2C%22choice%22%3A%227%22%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%227%22%2C%22disabled%22%3Afalse%2C%22choiceType%22%3A%22buttons%22%2C%22choice%22%3A%227%22%7D%5D%7D&editcss=https://dl.dropbox.com/s/9rqi5o15z9ginqp/my-fight-stick-peters-config.css#
+Tekken Skin by Peter Lawrence https://steamcommunity.com/id/PeterLawrence/
+https://gamepadviewer.com/?p=1&s=7&editcss=https://raw.githubusercontent.com/Pete-Lawrence/Tekken-Gamepad/master/my-fight-stick.css#
 */
 
-/*I should really host these files somewhere other than Dropbox...
-It would've been nice to have used svgz vectors for the graphics but Dropbox can't direct link them like it can with pngs.*/
-.controller.fight-stick { background: url(https://dl.dropboxusercontent.com/s/gzi83rhqh7rofyf/base_4.png) center no-repeat; }
+.controller.fight-stick { background: url(https://raw.githubusercontent.com/Pete-Lawrence/Tekken-Gamepad/master/base_4.png) center no-repeat; }
 .fight-stick.disconnected { background: url(https://gamepadviewer.com/stick-assets/disconnected.svgz) no-repeat; }
-
-/*RB = X + B config*/
-/*.fight-stick .triggers { width: 279px; height: 88px; right: 217px; bottom: 277px;}*/
-/*.fight-stick .trigger-button.left { background: #bb2f4f; bottom: -105px; right: 73px; }*/
-/*.fight-stick .trigger-button.right { background: #18a3c3; top: 217px; left: 45px; }*/
-
 
 /*Rage Art*/
 .fight-stick .bumpers , 
@@ -23,7 +14,7 @@ It would've been nice to have used svgz vectors for the graphics but Dropbox can
 	right: 152px;
 	top: 141px;
 	border-radius: 0%;
-	background: url(https://dl.dropboxusercontent.com/s/4nf4iecpy1fvbzv/rageart.png);
+	background: url(https://raw.githubusercontent.com/Pete-Lawrence/Tekken-Gamepad/master/rageart.png);
 	}
 
 /*Face Buttons*/
@@ -43,7 +34,7 @@ It would've been nice to have used svgz vectors for the graphics but Dropbox can
 	height: 218px;
 	top: 158px;
 	left: 365px;
-	background: url(https://dl.dropboxusercontent.com/s/zjfwgybevxv5qp5/stick_new.png);
+	background: url(https://raw.githubusercontent.com/Pete-Lawrence/Tekken-Gamepad/master/stick_new.png);
 	transform: scale(0.5);
 	transform-origin: left;
 	}
