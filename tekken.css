@@ -3,7 +3,7 @@ Tekken Skin by Peter Lawrence https://steamcommunity.com/id/PeterLawrence/
 https://gamepadviewer.com/?p=1&s=7&editcss=https://raw.githubusercontent.com/Pete-Lawrence/Tekken-Gamepad/master/tekken.css#
 */
 
-.controller.fight-stick { background: url(https://github.com/Pete-Lawrence/Tekken-Gamepad/master/base_4.png) center no-repeat; }
+.controller.fight-stick { background: url(https://github.com/Pete-Lawrence/gamepadviewer/master/base_4.png) center no-repeat; }
 .fight-stick.disconnected { background: url(https://gamepadviewer.com/stick-assets/disconnected.svgz) no-repeat; }
 
 /*Rage Art*/
@@ -14,7 +14,7 @@ https://gamepadviewer.com/?p=1&s=7&editcss=https://raw.githubusercontent.com/Pet
 	right: 152px;
 	top: 141px;
 	border-radius: 0%;
-	background: url(https://github.com/Pete-Lawrence/Tekken-Gamepad/master/rageart.png);
+	background: url(https://github.com/Pete-Lawrence/gamepadviewer/master/rageart.png);
 	}
 
 /*Face Buttons*/
@@ -34,7 +34,7 @@ https://gamepadviewer.com/?p=1&s=7&editcss=https://raw.githubusercontent.com/Pet
 	height: 218px;
 	top: 158px;
 	left: 365px;
-	background: url(https://github.com/Pete-Lawrence/Tekken-Gamepad/master/stick_new.png);
+	background: url(https://github.com/Pete-Lawrence/gamepadviewer/master/stick_new.png);
 	transform: scale(0.5);
 	transform-origin: left;
 	}
