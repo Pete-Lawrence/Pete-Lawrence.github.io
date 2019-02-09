@@ -1,4 +1,4 @@
-.controller.fight-stick { background: url(https://raw.githubusercontent.com/Pete-Lawrence/Pete-Lawrence.github.io/master/base_4.png) center no-repeat; }
+.controller.fight-stick { background: url(base_4.png) center no-repeat; }
 .fight-stick.disconnected { background: url(https://gamepadviewer.com/stick-assets/disconnected.svgz) no-repeat; }
 
 /*Rage Art*/
@@ -9,7 +9,7 @@
 	right: 152px;
 	top: 141px;
 	border-radius: 0%;
-	background: url(https://raw.githubusercontent.com/Pete-Lawrence/Pete-Lawrence.github.io/master/rageart.png);
+	background: url(rageart.png);
 	}
 
 /*Face Buttons*/
@@ -29,7 +29,7 @@
 	height: 218px;
 	top: 158px;
 	left: 365px;
-	background: url(https://raw.githubusercontent.com/Pete-Lawrence/Pete-Lawrence.github.io/master/stick_new.png);
+	background: url(stick_new.png);
 	transform: scale(0.5);
 	transform-origin: left;
 	}
