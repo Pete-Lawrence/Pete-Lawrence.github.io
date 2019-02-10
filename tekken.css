@@ -1,22 +1,24 @@
-.controller.fight-stick { background: url(base_4.png) center no-repeat; }
-.fight-stick.disconnected { background: url(https://gamepadviewer.com/stick-assets/disconnected.svgz) no-repeat; }
+.controller.fight-stick { background: url(tekken.svg) center no-repeat; background-position-x: -650px; width: 260px}
 
 /*Rage Art*/
 .fight-stick .bumpers , 
 .fight-stick .bumper {
-	width: 128px;
-	height: 128px;
-	right: 152px;
-	top: 141px;
+	width: 260px;
+	height: 268px;
+	top: 69px;
+	left: 245px;
 	border-radius: 0%;
-	background: url(rageart.png);
+	background: url(tekken.svg);
+	background-position-x: -910px;
+	transform: scale(0.5);
+	transform-origin: left;
 	}
 
 /*Face Buttons*/
-.fight-stick .a { bottom: 56px; left: 154px; }
-.fight-stick .b { bottom: 69px; right: -50px; }
-.fight-stick .x { top: 108px; left: 154px; }
-.fight-stick .y { right: -50px; top: 93px; }
+.fight-stick .a { bottom: 54px; left: -446px; }
+.fight-stick .b { bottom: 67px; right: 550px; }
+.fight-stick .x { top: 110px; left: -447px; }
+.fight-stick .y { right: 550px; top: 95px; }
 
 .fight-stick .button.a.pressed  { background: #60a94f; }
 .fight-stick .button.b.pressed  { background: #bb2f4f; }
@@ -25,11 +27,11 @@
 
 /*Movement Inputs*/
 .fight-stick .fstick {
-	width: 218px;
-	height: 218px;
-	top: 158px;
-	left: 365px;
-	background: url(stick_new.png);
+	width: 260px;
+	height: 268px;
+	top: 150px;
+	left: -265px;
+	background: url(tekken.svg);
 	transform: scale(0.5);
 	transform-origin: left;
 	}
@@ -42,9 +44,9 @@
 .fight-stick .fstick.up.left,
 .fight-stick .fstick.down.right,
 .fight-stick .fstick.down.left {
-	background-position-x: -218px;
-	width: 327px;
-	left: 415px;
+	width: 390px;
+	background-position-x: -260px;
+	left: -200px;
 	}
 
 .fight-stick .fstick.up 			{ transform: scale(0.5) rotate(270deg); }
