@@ -1,95 +1,104 @@
-.controller.fight-stick { background: url(tekken.svg) center no-repeat; background-position-x: -650px; width: 260px}
+/*Controller Disconnected*/
+.custom.disconnected { background: url(https://gamepadviewer.com/stick-assets/disconnected.svgz) no-repeat; }
+.custom.disconnected div { display: none; }
 
-/*Rage Art*/
-.fight-stick .bumpers , 
-.fight-stick .bumper {
+/*Button Panel*/
+.controller.custom{
+    background: url(tekken.svg) center no-repeat;
+    background-position-x: -650px;
+    width: 260px;
+    height: 268px;
+}
+
+/*Movement Inputs*/
+.custom .fstick {
+	position: absolute;
 	width: 260px;
 	height: 268px;
-	top: 69px;
-	left: 245px;
-	border-radius: 0%;
+	left: -245px;
+	background: url(tekken.svg);
+	transform: scale(0.5);
+	transform-origin: left;
+	}
+
+.custom .fstick.up,
+.custom .fstick.down,
+.custom .fstick.left,
+.custom .fstick.right,
+.custom .fstick.up.right,
+.custom .fstick.up.left,
+.custom .fstick.down.right,
+.custom .fstick.down.left {
+	width: 390px;
+	left: -180px;
+	background-position-x: -260px;
+	}
+
+.custom .fstick.up 			{ transform: scale(0.5) rotate(270deg); }
+.custom .fstick.down 		{ transform: scale(0.5) rotate(90deg); }
+.custom .fstick.left 		{ transform: scale(0.5) rotate(180deg); }
+.custom .fstick.right 		{ transform: scale(0.5) rotate(0deg); }
+.custom .fstick.up.right 	{ transform: scale(0.5) rotate(315deg); }
+.custom .fstick.up.left 		{ transform: scale(0.5) rotate(225deg); }
+.custom .fstick.down.right 	{ transform: scale(0.5) rotate(45deg); }
+.custom .fstick.down.left 	{ transform: scale(0.5) rotate(135deg); }
+
+
+/*Buttons*/
+.custom .arrows,
+.custom .sticks,
+.custom .bumpers,
+.custom .triggers,
+.custom .abxy { width: 259px; left: 633px; }
+
+
+/*Face Buttons*/
+.custom .button {
+    position: absolute;
+	width: 98px;
+	height: 98px;
+	border-radius: 100%;
+	opacity: 0;
+}
+
+.custom .button.x.pressed  { top: 38px; left: 26px; background: #18a3c3; opacity: 1;} /*1*/
+.custom .button.y.pressed  { top: 23px; left: 134px; background: #d9bf2c; opacity: 1;} /*2*/
+.custom .button.a.pressed  { top: 146px; left: 26px; background: #60a94f; opacity: 1;} /*3*/
+.custom .button.b.pressed  { top: 133px; right: 28px; background: #bb2f4f; opacity: 1;} /*4*/
+
+
+/*Button Combos*/
+.custom .start,
+.custom .back,
+.custom .stick,
+.custom .bumper,
+.custom .trigger {
+	top: 0px;
+	right: 0px;
+    position: absolute;
+	width: 260px;
+	height: 268px;
+	opacity: 0;
+	background: url(tekken-button-combos.svg);
+}
+
+.custom .stick.left.pressed { opacity: 1;	background-position-x: 0px;} 	/*1+2*/
+.custom .stick.right.pressed { opacity: 1; 	background-position-x: -520px;} /*3+4*/
+
+.custom .bumper.left.pressed { opacity: 1; 	background-position-x: -260px;} /*2+4*/
+
+.custom .trigger.left { 						background-position-x: 780px; } /*2+3*/
+.custom .trigger.right { 					background-position-x: 520px; } /*1+4*/
+
+.custom .start.pressed { opacity: 1; 		background-position-x: -780px;} /*1+3*/
+.custom .back.pressed { opacity: 1; 			background-position-x: 260px;} 	/*1+2+3+4*/
+
+/*Rage Art*/
+.custom .bumper.right.pressed {
+	top: -60px;
+	left: 175px;
+	opacity: 1;
 	background: url(tekken.svg);
 	background-position-x: -910px;
 	transform: scale(0.5);
-	transform-origin: left;
-	}
-
-/*Face Buttons*/
-.fight-stick .a { bottom: 54px; left: -446px; }
-.fight-stick .b { bottom: 67px; right: 550px; }
-.fight-stick .x { top: 110px; left: -447px; }
-.fight-stick .y { right: 550px; top: 95px; }
-
-.fight-stick .button.a.pressed  { background: #60a94f; }
-.fight-stick .button.b.pressed  { background: #bb2f4f; }
-.fight-stick .button.x.pressed  { background: #18a3c3; }
-.fight-stick .button.y.pressed  { background: #d9bf2c; }
-
-/*Movement Inputs*/
-.fight-stick .fstick {
-	width: 260px;
-	height: 268px;
-	top: 150px;
-	left: -265px;
-	background: url(tekken.svg);
-	transform: scale(0.5);
-	transform-origin: left;
-	}
-
-.fight-stick .fstick.up,
-.fight-stick .fstick.down,
-.fight-stick .fstick.left,
-.fight-stick .fstick.right,
-.fight-stick .fstick.up.right,
-.fight-stick .fstick.up.left,
-.fight-stick .fstick.down.right,
-.fight-stick .fstick.down.left {
-	width: 390px;
-	background-position-x: -260px;
-	left: -200px;
-	}
-
-.fight-stick .fstick.up 			{ transform: scale(0.5) rotate(270deg); }
-.fight-stick .fstick.down 		{ transform: scale(0.5) rotate(90deg); }
-.fight-stick .fstick.left 		{ transform: scale(0.5) rotate(180deg); }
-.fight-stick .fstick.right 		{ transform: scale(0.5) rotate(0deg); }
-.fight-stick .fstick.up.right 	{ transform: scale(0.5) rotate(315deg); }
-.fight-stick .fstick.up.left 	{ transform: scale(0.5) rotate(225deg); }
-.fight-stick .fstick.down.right 	{ transform: scale(0.5) rotate(45deg); }
-.fight-stick .fstick.down.left 	{ transform: scale(0.5) rotate(135deg); }
-
-/*Essential Tweaks*/
-.fight-stick .button,
-.fight-stick .trigger-button {
-	width: 98px;
-	height: 98px;
-	background: #424c4b;
-	}
-
-.fight-stick .trigger-button,
-/**/.fight-stick .triggers,
-/**/.fight-stick .trigger-button.left,
-/**/.fight-stick .trigger-button.right,
-/**/.fight-stick .trigger-button.left.pressed,
-/**/.fight-stick .trigger-button.right.pressed,
-/**/.fight-stick .trigger-button.pressed,
-.fight-stick .button,
-.fight-stick .bumper,
-.fight-stick .bumpers,
-.fight-stick .bumper.left,
-.fight-stick .bumper.left.pressed,
-.fight-stick .quadrant,
-.fight-stick .arrows ,
-.fight-stick .back,
-.fight-stick .start ,
-.fight-stick .back.pressed,
-.fight-stick .start.pressed {
-	visibility: hidden;
-	}
-
-.fight-stick .button.pressed,
-.fight-stick .bumper.pressed {
-	transform: translateY(0px);
-	-webkit-filter: invert(0);
-	visibility: visible;
 	}
