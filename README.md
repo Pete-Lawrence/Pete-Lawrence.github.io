@@ -17,7 +17,7 @@ Press a button on your controller when the page loads and select **"Player 1"**.
 
 Take a look at my **Default Mapping** below to learn what button is mapped to what by default.
 
-When you are done, press **"Export Mapping to URL Generator"** and paste this link into **"Custom CSS URL:**" [https://pete-lawrence.github.io/tekken.css](https://pete-lawrence.github.io/tekken.css)
+When you are done, first press **"Apply Mapping"** and then secondly **"Export Mapping to URL Generator"** and finally paste this link into **"Custom CSS URL:**" [https://pete-lawrence.github.io/tekken.css](https://pete-lawrence.github.io/tekken.css)
 
 ## Default Mapping
 X/Square = **1**
