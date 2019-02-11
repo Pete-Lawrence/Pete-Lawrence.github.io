@@ -24,7 +24,7 @@ Gamepad Viewer is for OBS. Create a CLR Browser source and paste the URL there.
 
 * Press the button on your controller that you want the button macro applied to (before **"Waiting for Button Press..."** times out).
 
-* Click **"Add New Mapping"** and select the button in the dropdown menu you applied the macro to and click "Disable" button macros from overlapping.
+* Click **"Add New Mapping"** and select the button in the dropdown menu you applied the macro to and click **"Disable"** to prevent button macros from overlapping.
 
 When you are done follow these steps in this order, 
 1. Press **"Apply Mapping"**
