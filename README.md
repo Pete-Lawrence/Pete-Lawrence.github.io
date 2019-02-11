@@ -16,20 +16,22 @@ Gamepad Viewer is for OBS. Create a CLR Browser source and paste the URL there.
 [If you use a different configuration, please click here to remap your controls and disable unused buttons.](https://gamepadviewer.com/#remap) When the page loads, press a button on your controller and select **"Player 1"** for **"Please select the controller to use as a mapping base"**.
 
 ### Disabling a button.
-* Select the button in the dropdown menu that has a button macro you **DO NOT USE** as listed in **Default Mapping (See bottom of this page)** and then click **"Disable"**. Don't worry if that button you disabled is a button you want to apply a *different* macro to. Follow the next guide for that.
+* Click **"Add New Mapping"** and select the button in the dropdown menu that has a button macro you **DO NOT USE** as listed in **Default Mapping (See bottom of this page)** and then click **"Disable"**. Don't worry if that button you disabled is a button you want to apply a *different* macro to. Follow the next guide for that.
 
 
 ### Setting up a button macro.
-* Select the button in the dropdown menu that has the button macro you desire as listed in **Default Mapping (See bottom of this page)** and then click **"Click to Set"**.
+* Click **"Add New Mapping"** and select the button in the dropdown menu that has the button macro you desire as listed in **Default Mapping (See bottom of this page)** and then click **"Click to Set"**.
 
 * Press the button on your controller that you want the button macro applied to (before **"Waiting for Button Press..."** times out).
 
+* Click **"Add New Mapping"** and select the button in the dropdown menu you applied the macro to and click "Disable" button macros from overlapping.
+
 When you are done follow these steps in this order, 
-1. press **"Apply Mapping"**
+1. Press **"Apply Mapping"**
 
-2. press **"Export Mapping to URL Generator"**
+2. Press **"Export Mapping to URL Generator"**
 
-3. finally paste this link into **"Custom CSS URL:**" [https://pete-lawrence.github.io/tekken.css](https://pete-lawrence.github.io/tekken.css)
+3. Finally paste this link into **"Custom CSS URL:**" [https://pete-lawrence.github.io/tekken.css](https://pete-lawrence.github.io/tekken.css)
 
 ## Default Mapping
 X/Square = **1**
