@@ -13,11 +13,18 @@ Gamepad Viewer is for OBS. Create a CLR Browser source and paste the URL there.
 * [Peter's Tekken config, default Tekken but R2 is 1+4, all other buttons disabled](https://gamepadviewer.com/?p=1&css=https://pete-lawrence.github.io/tekken.css)
 
 [If you use a different configuration, please click here to remap your controls and disable unused buttons.](https://gamepadviewer.com/#remap)
-Press a button on your controller when the page loads and select **"Player 1"**.
+* Press a button on your controller when the page loads and select **"Player 1"**.
 
-Take a look at my **Default Mapping** below to learn what button is mapped to what by default.
+* Select the button that you physically use in the dropdown menu and then click **"Click to Set"**.
 
-When you are done, first press **"Apply Mapping"** and then secondly **"Export Mapping to URL Generator"** and finally paste this link into **"Custom CSS URL:**" [https://pete-lawrence.github.io/tekken.css](https://pete-lawrence.github.io/tekken.css)
+* Press the button that has the button macro you desire as listed in **Default Mapping** before **"Waiting for Button Press..."** expires.
+
+When you are done in this order, 
+1. press **"Apply Mapping"**
+
+2. press **"Export Mapping to URL Generator"**
+
+3. finally paste this link into **"Custom CSS URL:**" [https://pete-lawrence.github.io/tekken.css](https://pete-lawrence.github.io/tekken.css)
 
 ## Default Mapping
 X/Square = **1**
