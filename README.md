@@ -12,6 +12,7 @@ Gamepad Viewer is for OBS. Create a CLR Browser source and paste the URL there.
 
 * [Peter's Tekken config, default Tekken but R2 is 1+4, all other buttons disabled](https://gamepadviewer.com/?p=1&css=https://pete-lawrence.github.io/tekken.css)
 
+## Setting up your own configuration.
 [If you use a different configuration, please click here to remap your controls and disable unused buttons.](https://gamepadviewer.com/#remap)
 * Press a button on your controller when the page loads and select **"Player 1"**.
 
