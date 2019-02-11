@@ -15,9 +15,11 @@ Gamepad Viewer is for OBS. Create a CLR Browser source and paste the URL there.
 [If you use a different configuration, please click here to remap your controls and disable unused buttons.](https://gamepadviewer.com/#remap)
 * Press a button on your controller when the page loads and select **"Player 1"**.
 
-* Select the button that you physically use in the dropdown menu and then click **"Click to Set"**.
+* Select the button in the dropdown menu that has the button macro you desire as listed in **Default Mapping** and then click **"Click to Set"**.
 
-* Press the button that has the button macro you desire as listed in **Default Mapping** before **"Waiting for Button Press..."** expires.
+* Press the button on your controller that you want the button macro applied to (before **"Waiting for Button Press..."** times out).
+
+
 
 When you are done in this order, 
 1. press **"Apply Mapping"**
