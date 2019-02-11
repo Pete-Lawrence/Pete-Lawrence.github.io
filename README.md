@@ -15,16 +15,15 @@ Gamepad Viewer is for OBS. Create a CLR Browser source and paste the URL there.
 ## Setting up your own configuration.
 [If you use a different configuration, please click here to remap your controls and disable unused buttons.](https://gamepadviewer.com/#remap) When the page loads, press a button on your controller and select **"Player 1"** for **"Please select the controller to use as a mapping base"**.
 
-### Disabling a button.
-* Click **"Add New Mapping"** and select the button in the dropdown menu that has a button macro you **DO NOT USE** as listed in **Default Mapping (See bottom of this page)** and then click **"Disable"**. Don't worry if that button you disabled is a button you want to apply a *different* macro to. Follow the next guide for that.
-
-
 ### Setting up a button macro.
-* Click **"Add New Mapping"** and select the button in the dropdown menu that has the button macro you desire as listed in **Default Mapping (See bottom of this page)** and then click **"Click to Set"**.
+* Click **"Add New Mapping"** and select the button in the dropdown menu that has the button macro you desire as listed in **Default Mapping (See bottom of this page)**.
 
-* Press the button on your controller that you want the button macro applied to (before **"Waiting for Button Press..."** times out).
+* Click **"Click to Set"** and press the button on your controller that you want the button macro applied to (before **"Waiting for Button Press..."** times out).
 
 * Click **"Add New Mapping"** and select the button in the dropdown menu you applied the macro to and click **"Disable"** to prevent button macros from overlapping.
+
+### Disabling a button.
+* Click **"Add New Mapping"** and select the button in the dropdown menu that has a button macro you **DO NOT USE** as listed in **Default Mapping (See bottom of this page)** and then click **"Disable"**. Don't worry if that button you disabled is a button you want to apply a *different* macro to.
 
 When you are done follow these steps in this order, 
 1. Press **"Apply Mapping"**
