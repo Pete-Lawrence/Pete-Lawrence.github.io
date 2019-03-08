@@ -65,3 +65,24 @@ LS/L3 = **1+2**
 Start = **1+3**
 
 Select/Back = **1+2+3+4**
+
+
+## Bonus
+**Copy and paste the code below into "custom CSS" in the browser window for OBS to enable PlayStation button colours.**
+
+```
+/*Face Buttons*/
+.custom .button.x.pressed { background: #DFA1B4;} /*1*/
+.custom .button.y.pressed { background: #0398A8;} /*2*/
+.custom .button.a.pressed { background: #5092C0;} /*3*/
+.custom .button.b.pressed { background: #C96280;} /*4*/
+
+/*Button Combos*/
+.custom .start,
+.custom .back,
+.custom .stick,
+.custom .bumper,
+.custom .trigger { background: url(https://pete-lawrence.github.io/tekken-button-combos-ps.svg);
+}
+```
+Note: You will have to wait around 20 seconds before it updates so don't panic if it doesn't instantly work.
