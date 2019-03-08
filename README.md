@@ -1,5 +1,5 @@
 # Tekken-Gamepad
-### Video example: https://www.youtube.com/watch?v=fvnVDxeJVcg
+### Video example: [https://www.youtube.com/watch?v=fvnVDxeJVcg](https://www.youtube.com/watch?v=fvnVDxeJVcg)
 Tekken skin for Mr McPowned's Gamepad Viewer by [Peter Lawrence](https://steamcommunity.com/id/PeterLawrence/)
 
 This skin supports all built-in button macros for Tekken.
