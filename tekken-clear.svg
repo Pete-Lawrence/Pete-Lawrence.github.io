@@ -16,7 +16,7 @@
 </g>
 <path fill="none" stroke="#00A0C6" stroke-miterlimit="10" d="M163.125,64"/>
 <g>
-	<path fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	<path fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M1145,238.5l-41.428-78.57c0,0,18.928-18.93,21.428-21.43s2.5-5,0-7.5s-23.842-25.331-23.842-25.331L1130,43.5l-59.602,29.486
 		c0,0-22.898-24.486-25.398-26.986s-5-2.5-7.5,0s-23.555,23.555-23.555,23.555L937.5,28.5l41.055,76.445
 		c0,0-23.555,23.555-26.055,26.055s-2.5,5,0,7.5s27.848,26.211,27.848,26.211L952.5,221l58.715-27.239
