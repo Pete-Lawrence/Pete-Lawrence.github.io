@@ -67,8 +67,13 @@ Start = **1+3**
 Select/Back = **1+2+3+4**
 
 
-## Bonus
-**Copy and paste the code below into "custom CSS" in the browser window for OBS to enable PlayStation button colours.**
+## Bonus Skins
+**Copy and paste the code below into "custom CSS" in the browser window for OBS**
+
+Note: You will have to wait around 20 seconds before it updates so don't panic if it doesn't instantly work.
+
+
+#### PlayStation button colours
 
 ```
 /*Face Buttons*/
@@ -84,4 +89,33 @@ Select/Back = **1+2+3+4**
 .custom .bumper,
 .custom .trigger { background: url(https://pete-lawrence.github.io/tekken-button-combos-ps.svg); }
 ```
-Note: You will have to wait around 20 seconds before it updates so don't panic if it doesn't instantly work.
+
+
+#### Clear theme
+```
+/*Face Buttons*/
+.custom .button.x.pressed { background: #FFFFFF; } /*1*/
+.custom .button.y.pressed { background: #FFFFFF; } /*2*/
+.custom .button.a.pressed { background: #FFFFFF; } /*3*/
+.custom .button.b.pressed { background: #FFFFFF; } /*4*/
+
+/*Button Combos*/
+.custom .start,
+.custom .back,
+.custom .stick,
+.custom .bumper,
+.custom .trigger { background: url(https://pete-lawrence.github.io/tekken-button-combos-clear.svg); }
+
+/*Button Panel*/
+.controller.custom {
+background: url(https://pete-lawrence.github.io/tekken-clear.svg);
+background-position-x: -650px; }
+
+/*Movement Inputs*/
+.custom .fstick { background: url(https://pete-lawrence.github.io/tekken-clear.svg); }
+
+/*Rage Art*/
+.custom .bumper.right.pressed {
+background: url(https://pete-lawrence.github.io/tekken-clear.svg);
+background-position-x: -910px; }
+```
