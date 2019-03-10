@@ -109,7 +109,9 @@ Note: You will have to wait around 20 seconds before it updates so don't panic i
 /*Button Panel*/
 .controller.custom {
 background: url(https://pete-lawrence.github.io/tekken-clear.svg);
-background-position-x: -650px; }
+background-position-x: -650px;
+filter: drop-shadow( 1px 1px 0.75px rgba(0, 0, 0, 0.8));
+}
 
 /*Movement Inputs*/
 .custom .fstick { background: url(https://pete-lawrence.github.io/tekken-clear.svg); }
