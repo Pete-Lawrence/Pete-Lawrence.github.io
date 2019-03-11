@@ -135,7 +135,7 @@ background-position-x: -910px; }
 .custom .back,
 .custom .stick,
 .custom .bumper,
-.custom .trigger { background: url(https://pete-lawrence.github.io/tekken-button-combos-clear-red.svg); }
+.custom .trigger { background: url(https://pete-lawrence.github.io/tekken-button-combos-red.svg); }
 
 /*Button Panel*/
 .controller.custom {
