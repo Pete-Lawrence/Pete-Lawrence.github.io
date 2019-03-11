@@ -74,7 +74,6 @@ Note: You will have to wait around 20 seconds before it updates so don't panic i
 
 
 #### PlayStation button colours
-
 ```
 /*Face Buttons*/
 .custom .button.x.pressed { background: #DFA1B4; } /*1*/
@@ -122,7 +121,8 @@ background: url(https://pete-lawrence.github.io/tekken-clear.svg);
 background-position-x: -910px; }
 ```
 
-#### Clear theme with red arcade style button colours.
+
+#### Clear theme with red arcade style button colours
 ```
 /*Face Buttons*/
 .custom .button.x.pressed { background: #CD0000; } /*1*/
