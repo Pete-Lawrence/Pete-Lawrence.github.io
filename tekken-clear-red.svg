@@ -41,10 +41,10 @@
 	156.517,107.107 233.75,110.078 173.013,157.877 194.054,232.25 129.825,189.256 65.596,232.25 86.637,157.877 25.9,110.078 
 	103.133,107.107 "/>
 <g>
-	<circle fill="none" stroke="#7C0314" stroke-width="3" stroke-miterlimit="10" cx="725" cy="194.75" r="48.75"/>
-	<circle fill="none" stroke="#7C0314" stroke-width="3" stroke-miterlimit="10" cx="725" cy="86.75" r="48.75"/>
-	<circle fill="none" stroke="#7C0314" stroke-width="3" stroke-miterlimit="10" cx="832.5" cy="71.75" r="48.75"/>
-	<circle fill="none" stroke="#7C0314" stroke-width="3" stroke-miterlimit="10" cx="832.5" cy="181.75" r="48.75"/>
+	<circle fill="none" stroke="#CD0000" stroke-width="3" stroke-miterlimit="10" cx="725" cy="194.75" r="48.75"/>
+	<circle fill="none" stroke="#CD0000" stroke-width="3" stroke-miterlimit="10" cx="725" cy="86.75" r="48.75"/>
+	<circle fill="none" stroke="#CD0000" stroke-width="3" stroke-miterlimit="10" cx="832.5" cy="71.75" r="48.75"/>
+	<circle fill="none" stroke="#CD0000" stroke-width="3" stroke-miterlimit="10" cx="832.5" cy="181.75" r="48.75"/>
 	<path fill="none" stroke="#FFFFFF" stroke-width="6" stroke-miterlimit="10" d="M866.592,127.375
 		c18.533-11.301,30.908-31.705,30.908-55C897.5,36.822,868.679,8,833.125,8c-25.996,0-48.378,15.418-58.54,37.601
 		C762.777,31.776,745.231,23,725.625,23c-35.554,0-64.375,28.822-64.375,64.375c0,22.632,11.688,42.521,29.349,54
