@@ -152,3 +152,52 @@ filter: drop-shadow( 1px 1px 0.75px rgba(0, 0, 0, 0.8));
 background: url(https://pete-lawrence.github.io/tekken-clear-red.svg);
 background-position-x: -910px; }
 ```
+
+#### Clear theme with PC/Xbox style button colours
+```
+/*Button Panel*/
+.controller.custom {
+background: url(https://pete-lawrence.github.io/tekken-clear-pc.svg);
+background-position-x: -650px;
+filter: drop-shadow( 1px 1px 0.75px rgba(0, 0, 0, 0.8));
+}
+
+/*Movement Inputs*/
+.custom .fstick { background: url(https://pete-lawrence.github.io/tekken-clear-pc.svg); }
+
+/*Rage Art*/
+.custom .bumper.right.pressed {
+background: url(https://pete-lawrence.github.io/tekken-clear-pc.svg);
+background-position-x: -910px; }
+```
+
+#### Clear theme with PlayStation button colours
+```
+/*Face Buttons*/
+.custom .button.x.pressed { background: #DFA1B4; } /*1*/
+.custom .button.y.pressed { background: #0398A8; } /*2*/
+.custom .button.a.pressed { background: #5092C0; } /*3*/
+.custom .button.b.pressed { background: #C96280; } /*4*/
+
+/*Button Combos*/
+.custom .start,
+.custom .back,
+.custom .stick,
+.custom .bumper,
+.custom .trigger { background: url(https://pete-lawrence.github.io/tekken-button-combos-ps.svg); }
+
+/*Button Panel*/
+.controller.custom {
+background: url(https://pete-lawrence.github.io/tekken-clear-ps.svg);
+background-position-x: -650px;
+filter: drop-shadow( 1px 1px 0.75px rgba(0, 0, 0, 0.8));
+}
+
+/*Movement Inputs*/
+.custom .fstick { background: url(https://pete-lawrence.github.io/tekken-clear-ps.svg); }
+
+/*Rage Art*/
+.custom .bumper.right.pressed {
+background: url(https://pete-lawrence.github.io/tekken-clear-ps.svg);
+background-position-x: -910px; }
+```
