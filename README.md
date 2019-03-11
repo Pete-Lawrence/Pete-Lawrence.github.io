@@ -121,3 +121,34 @@ filter: drop-shadow( 1px 1px 0.75px rgba(0, 0, 0, 0.8));
 background: url(https://pete-lawrence.github.io/tekken-clear.svg);
 background-position-x: -910px; }
 ```
+
+#### Clear theme with red arcade style button colours.
+```
+/*Face Buttons*/
+.custom .button.x.pressed { background: #CD0000; } /*1*/
+.custom .button.y.pressed { background: #CD0000; } /*2*/
+.custom .button.a.pressed { background: #CD0000; } /*3*/
+.custom .button.b.pressed { background: #CD0000; } /*4*/
+
+/*Button Combos*/
+.custom .start,
+.custom .back,
+.custom .stick,
+.custom .bumper,
+.custom .trigger { background: url(https://pete-lawrence.github.io/tekken-button-combos-clear-red.svg); }
+
+/*Button Panel*/
+.controller.custom {
+background: url(https://pete-lawrence.github.io/tekken-clear-red.svg);
+background-position-x: -650px;
+filter: drop-shadow( 1px 1px 0.75px rgba(0, 0, 0, 0.8));
+}
+
+/*Movement Inputs*/
+.custom .fstick { background: url(https://pete-lawrence.github.io/tekken-clear-red.svg); }
+
+/*Rage Art*/
+.custom .bumper.right.pressed {
+background: url(https://pete-lawrence.github.io/tekken-clear-red.svg);
+background-position-x: -910px; }
+```
