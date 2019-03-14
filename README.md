@@ -1,4 +1,5 @@
 # [Tekken-Gamepad](https://pete-lawrence.github.io)
+![default pc/xbox style](https://pete-lawrence.github.io/screenshots/gamepad-pc.png)
 ### Video example: [https://www.youtube.com/watch?v=fvnVDxeJVcg](https://www.youtube.com/watch?v=fvnVDxeJVcg)
 Tekken skin for Mr McPowned's Gamepad Viewer by [Peter Lawrence](https://steamcommunity.com/id/PeterLawrence/)
 
@@ -72,7 +73,7 @@ Select/Back = **1+2+3+4**
 
 Note: You will have to wait around 20 seconds before it updates so don't panic if it doesn't instantly work.
 
-
+![default ps style](https://pete-lawrence.github.io/screenshots/gamepad-ps.png)
 #### PlayStation button colours
 ```
 /*Face Buttons*/
@@ -89,7 +90,7 @@ Note: You will have to wait around 20 seconds before it updates so don't panic i
 .custom .trigger { background: url(https://pete-lawrence.github.io/tekken-button-combos-ps.svg); }
 ```
 
-
+![clear white style](https://pete-lawrence.github.io/screenshots/gamepad-clear-white.png)
 #### Clear theme
 ```
 /*Face Buttons*/
@@ -121,7 +122,7 @@ background: url(https://pete-lawrence.github.io/tekken-clear.svg);
 background-position-x: -910px; }
 ```
 
-
+![clear red/white style](https://pete-lawrence.github.io/screenshots/gamepad-clear-red.png)
 #### Clear theme with red arcade style button colours
 ```
 /*Face Buttons*/
@@ -152,7 +153,7 @@ filter: drop-shadow( 1px 1px 0.75px rgba(0, 0, 0, 0.8));
 background: url(https://pete-lawrence.github.io/tekken-clear-red.svg);
 background-position-x: -910px; }
 ```
-
+![clear pc/xbox style](https://pete-lawrence.github.io/screenshots/gamepad-clear-pc.png)
 #### Clear theme with PC/Xbox style button colours
 ```
 /*Button Panel*/
@@ -171,6 +172,8 @@ background: url(https://pete-lawrence.github.io/tekken-clear-pc.svg);
 background-position-x: -910px; }
 ```
 
+
+![clear ps style](https://pete-lawrence.github.io/screenshots/gamepad-clear-ps.png)
 #### Clear theme with PlayStation button colours
 ```
 /*Face Buttons*/
