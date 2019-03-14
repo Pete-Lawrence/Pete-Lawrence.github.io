@@ -6,8 +6,8 @@ Tekken skin for Mr McPowned's Gamepad Viewer by [Peter Lawrence](https://steamco
 This skin supports all built-in button macros for Tekken.
 
 
-## Here are some premade configurations.
-Create a Browser source in OBS with a Width of 1000 and Height of 400. For the URL, pick one of the links below with the description that best fits you.
+## 1. Here are some premade configurations.
+Create a **Browser source in OBS** with a Width of **1000** and Height of **400**. For the URL, pick one of the links below with the description that best fits you.
 * [Completely default Tekken, R1 is Rage Art, all other buttons disabled](https://gamepadviewer.com/?p=1&css=https%3A%2F%2Fpete-lawrence.github.io%2Ftekken.css&map=%7B%22mapping%22%3A%5B%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%2211%22%2C%22disabled%22%3Atrue%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%2210%22%2C%22disabled%22%3Atrue%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%228%22%2C%22disabled%22%3Atrue%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%229%22%2C%22disabled%22%3Atrue%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%227%22%2C%22disabled%22%3Atrue%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%226%22%2C%22disabled%22%3Atrue%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%224%22%2C%22disabled%22%3Atrue%7D%5D%7D)
 
 * [Default Tekken but R1 is 1+2 and R2 is 3+4, all other buttons disabled](https://gamepadviewer.com/?p=1&css=https%3A%2F%2Fpete-lawrence.github.io%2Ftekken.css&map=%7B%22mapping%22%3A%5B%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%228%22%2C%22disabled%22%3Atrue%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%229%22%2C%22disabled%22%3Atrue%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%226%22%2C%22disabled%22%3Atrue%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%224%22%2C%22disabled%22%3Atrue%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%225%22%2C%22disabled%22%3Atrue%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%227%22%2C%22disabled%22%3Atrue%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%2211%22%2C%22disabled%22%3Afalse%2C%22choiceType%22%3A%22buttons%22%2C%22choice%22%3A%227%22%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%2210%22%2C%22disabled%22%3Afalse%2C%22choiceType%22%3A%22buttons%22%2C%22choice%22%3A%225%22%7D%5D%7D)
@@ -16,19 +16,24 @@ Create a Browser source in OBS with a Width of 1000 and Height of 400. For the U
 
 * [Peter's Tekken config, default Tekken but R2 is 1+4, L2 is 1+2+3+4, all other buttons disabled](https://gamepadviewer.com/?p=1&css=https%3A%2F%2Fpete-lawrence.github.io%2Ftekken.css&map=%7B%22mapping%22%3A%5B%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%229%22%2C%22disabled%22%3Atrue%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%2211%22%2C%22disabled%22%3Atrue%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%2210%22%2C%22disabled%22%3Atrue%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%224%22%2C%22disabled%22%3Atrue%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%226%22%2C%22disabled%22%3Atrue%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%228%22%2C%22disabled%22%3Afalse%2C%22choiceType%22%3A%22buttons%22%2C%22choice%22%3A%226%22%7D%5D%7D)
 
-## Setting up your own configuration.
+## 2. Setting up your own configuration.
 If you use a different configuration, **[please click here!](https://gamepadviewer.com/#remap)** When the page loads, press a button on your controller and select **"Player 1"** for **"Please select the controller to use as a mapping base"**.
 
-### Setting up a button macro.
+### a. Setting up a button macro.
+Settings up your button macros to match your own configuration ingame.
 * Click **"Add New Mapping"** and select the button in the dropdown menu that has the button macro you desire as listed in **[Default Mapping](https://pete-lawrence.github.io/#default-mapping)**.
 
 * Click **"Click to Set"** and press the button on your controller that you want the button macro applied to (before **"Waiting for Button Press..."** times out).
 
 * Click **"Add New Mapping"** again and select the button in the dropdown menu you applied the macro to and click **"Disable"**. This prevents button macros from overlapping.
 
-### Disabling a button.
+* Repeat as many times as needed to cover all your button macros before moving onto disabling unused buttons.
+
+### b. Disabling a button.
+When you're done setting up button macros, time to tidy things up by disabling all the unused buttons.
 * Click **"Add New Mapping"** and select the button in the dropdown menu that has a button macro you **DO NOT USE** as listed in **[Default Mapping](https://pete-lawrence.github.io/#default-mapping)** and then click **"Disable"**. Don't worry if that button you disabled is a button you want to apply a *different* macro to.
 
+### c. Export configuration.
 When you are done follow these steps in this order, 
 1. Press **"Apply Mapping"**
 
@@ -36,9 +41,9 @@ When you are done follow these steps in this order,
 
 3. Paste this link into **"Custom CSS URL:**" [https://pete-lawrence.github.io/tekken.css](https://pete-lawrence.github.io/tekken.css)
 
-4. Finally copy and paste the generated link into OBS's Browser.
+4. Finally create a **Browser source in OBS** with a Width of **1000** and Height of **400** and paste in the **generated URL**.
 
-## Default Mapping
+## 3. Default Mapping
 X/Square = **1**
 
 Y/Triangle = **2**
@@ -68,7 +73,7 @@ Start = **1+3**
 Select/Back = **1+2+3+4**
 
 
-## Bonus Skins
+## 4. Bonus Skins
 **Copy and paste the code below into "custom CSS" in the browser window for OBS**
 
 Note: You will have to wait around 20 seconds before it updates so don't panic if it doesn't instantly work.
