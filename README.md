@@ -1,13 +1,13 @@
 # [Tekken-Gamepad](https://pete-lawrence.github.io)
 ![default pc/xbox style](https://pete-lawrence.github.io/screenshots/gamepad-pc.png)
 ### Video example: [https://www.youtube.com/watch?v=fvnVDxeJVcg](https://www.youtube.com/watch?v=fvnVDxeJVcg)
-Tekken skin for Mr McPowned's Gamepad Viewer by [Peter Lawrence](https://steamcommunity.com/id/PeterLawrence/)
+Tekken skin for Mr McPowned's Gamepad Viewer by [Peter Lawrence](https://steamcommunity.com/id/PeterLawrence/) for OBS.
 
 This skin supports all built-in button macros for Tekken.
 
-Gamepad Viewer is for the Browser in OBS.
 
 ## Here are some premade configurations.
+Create a Browser source in OBS with a Width of 1000 and Height of 400. For the URL, pick one of the links below with the description that best fits you.
 * [Completely default Tekken, R1 is Rage Art, all other buttons disabled](https://gamepadviewer.com/?p=1&css=https%3A%2F%2Fpete-lawrence.github.io%2Ftekken.css&map=%7B%22mapping%22%3A%5B%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%2211%22%2C%22disabled%22%3Atrue%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%2210%22%2C%22disabled%22%3Atrue%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%228%22%2C%22disabled%22%3Atrue%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%229%22%2C%22disabled%22%3Atrue%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%227%22%2C%22disabled%22%3Atrue%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%226%22%2C%22disabled%22%3Atrue%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%224%22%2C%22disabled%22%3Atrue%7D%5D%7D)
 
 * [Default Tekken but R1 is 1+2 and R2 is 3+4, all other buttons disabled](https://gamepadviewer.com/?p=1&css=https%3A%2F%2Fpete-lawrence.github.io%2Ftekken.css&map=%7B%22mapping%22%3A%5B%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%228%22%2C%22disabled%22%3Atrue%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%229%22%2C%22disabled%22%3Atrue%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%226%22%2C%22disabled%22%3Atrue%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%224%22%2C%22disabled%22%3Atrue%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%225%22%2C%22disabled%22%3Atrue%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%227%22%2C%22disabled%22%3Atrue%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%2211%22%2C%22disabled%22%3Afalse%2C%22choiceType%22%3A%22buttons%22%2C%22choice%22%3A%227%22%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%2210%22%2C%22disabled%22%3Afalse%2C%22choiceType%22%3A%22buttons%22%2C%22choice%22%3A%225%22%7D%5D%7D)
