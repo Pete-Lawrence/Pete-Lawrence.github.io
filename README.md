@@ -21,7 +21,7 @@ If you use a different configuration, **[please click here!](https://gamepadview
 
 ### a. Setting up a button macro.
 Settings up your button macros to match your own configuration ingame.
-* Click **"Add New Mapping"** and select the button in the dropdown menu that has the button macro you desire as listed in **[Default Mapping](https://pete-lawrence.github.io/#default-mapping)**.
+* Click **"Add New Mapping"** and select the button in the dropdown menu that has the button macro you desire as listed in **[Default Mapping](https://pete-lawrence.github.io/#3-default-mapping)**.
 
 * Click **"Click to Set"** and press the button on your controller that you want the button macro applied to (before **"Waiting for Button Press..."** times out).
 
@@ -31,7 +31,7 @@ Settings up your button macros to match your own configuration ingame.
 
 ### b. Disabling a button.
 When you're done setting up button macros, time to tidy things up by disabling all the unused buttons.
-* Click **"Add New Mapping"** and select the button in the dropdown menu that has a button macro you **DO NOT USE** as listed in **[Default Mapping](https://pete-lawrence.github.io/#default-mapping)** and then click **"Disable"**. Don't worry if that button you disabled is a button you want to apply a *different* macro to.
+* Click **"Add New Mapping"** and select the button in the dropdown menu that has a button macro you **DO NOT USE** as listed in **[Default Mapping](https://pete-lawrence.github.io/#3-default-mapping)** and then click **"Disable"**. Don't worry if that button you disabled is a button you want to apply a *different* macro to.
 
 ### c. Export configuration.
 When you are done follow these steps in this order, 
