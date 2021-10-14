@@ -78,16 +78,16 @@ start button.
 }
 
 .custom .a.pressed{
-background: url(3button-buttons-a.svg);
+background: url(svg/3button-buttons-a.svg);
 }
 .custom .b.pressed{
-background: url(3button-buttons-b.svg);
+background: url(svg/3button-buttons-b.svg);
 }
 .custom .x.pressed{
-background: url(3button-buttons-c.svg);
+background: url(svg/3button-buttons-c.svg);
 }
 .custom .y.pressed{
-background: url(3button-buttons-start.svg);
+background: url(svg/3button-buttons-start.svg);
 }
 
 /* Dpad possitioning and sizing */
@@ -112,31 +112,31 @@ background: url(3button-buttons-start.svg);
 .custom .face.up{
     left: 56px;
     top: 0;
-background: url(3button-buttons-pad-pressed.svg);
+background: url(svg/3button-buttons-pad-pressed.svg);
 }
 .custom .face.down{
     left: 56px;
     top: 112px;
-background: url(3button-buttons-pad-pressed.svg);
+background: url(svg/3button-buttons-pad-pressed.svg);
     -webkit-transform: rotateX(180deg);
     transform: rotateX(180deg);
 }
 .custom .face.left{
     top: 56px;
     left: 0;
-background: url(3button-buttons-pad-pressed.svg);
+background: url(svg/3button-buttons-pad-pressed.svg);
     -webkit-transform: rotate(-90deg);
     transform: rotate(-90deg);
 }
 .custom .face.right{
     top: 56px;
     right: 0px;
-background: url(3button-buttons-pad-pressed.svg);
+background: url(svg/3button-buttons-pad-pressed.svg);
     -webkit-transform: rotate(90deg);
     transform: rotate(90deg);
 }
 .custom .face.pressed{
-background: url(3button-buttons-pad-pressed.svg);
+background: url(svg/3button-buttons-pad-pressed.svg);
 
 }
 /* NOTE: You NEED to set this to exactly half the height of what is listed 
