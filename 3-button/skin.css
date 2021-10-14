@@ -1,0 +1,148 @@
+/*
+-How to use Custom CSS for the Gamepad Viewer-
+http://mrmcpowned.com/gamepad
+
+Enabling a custom CSS is as easy as adding &css=[url to css file]
+to the end of the url like so:
+http://mrmcpowned.com/gamepad?p=1&css=https://gist.github.com/anonymous/526491dc02014099cd14/raw/d7bb0477ba984f794497f3f0f82cb33484dc7889/ps3.css
+
+If you're going to be using custom CSS for the gamepad viewer
+to design your own skin, we're assuming you have some sort of
+basic knowledge on how CSS works. I'd also suggest uploading
+your custom CSS to GitHub's gist as you can easily get the
+direct link for the file by copying the link address on the
+"Raw" button at the top right of the code.
+NOTE: If you're using gist, MAKE SURE TO NAME YOUR CSS FILE!
+It doesn't matter what you call it, so long as it ends in .css
+else the site won't read it and think it's just a plain text.
+
+Each CSS entry must be preceded by '.custom' since that's the 
+hardcoded class for a custom style. It doesn't make sense to 
+change this as you can only have one custom skin loaded at a time.
+
+If you're using images, they have to be uploaded to an image host of
+your choice. Personally, I'd go with Imgur since it's simple to upload
+and get the direct URL of the image. None of the images in this example
+will load because they're pointing to a location relative of the css 
+files, since this is normally in the main CSS file of the site.
+
+The following is a copy of the code used for displaying the PS3 controller
+skin on the Gamepad viewer. You can scroll below and read the comments to
+get an understanding of how the styling works and whatnot. Happy skinning!
+
+P.S. If you use this tool often and would like to 'buy me a coffee' you can
+do so via my Imraising page: https://imraising.tv/u/mrmcpowned
+
+*/
+
+.controller.custom{
+    background: url(svg/3button.svg); 
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    width: 800px;
+    height: 600px;
+}
+
+
+.custom .quadrant{
+    position: absolute;
+    width: 222px;
+    height: 195px;
+    top: 140px;
+    left: 240px;
+}
+
+/* This is to size and position the containing div for the 
+start button. 
+.custom .arrows{
+    position: absolute;
+    width: 222px;
+    height: 195px;
+    top: 214px;
+    left: 358px;
+}
+*/
+/* Positioning and size of the container for the face buttons */
+.custom .abxy{
+    position: absolute;
+    width: 222px;
+    height: 195px;
+    top: 105px;
+    left: 633px;
+}
+/* base class used to simplify the sprite mapping */
+.custom .button{
+    position: absolute;
+    width: 222px;
+    height: 195px;
+}
+
+.custom .a.pressed{
+background: url(3button-buttons-a.svg);
+}
+.custom .b.pressed{
+background: url(3button-buttons-b.svg);
+}
+.custom .x.pressed{
+background: url(3button-buttons-c.svg);
+}
+.custom .y.pressed{
+background: url(3button-buttons-start.svg);
+}
+
+/* Dpad possitioning and sizing */
+.custom .dpad{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top: 142px;
+    left: 133px;
+}
+.custom .face{
+    position: absolute;
+}
+.custom .face.up, .custom .face.down{
+    width: 200px;
+    height: 200px;
+}
+.custom .face.left, .custom .face.right{
+    width: 200px;
+    height: 200px;
+}
+.custom .face.up{
+    left: 56px;
+    top: 0;
+background: url(3button-buttons-pad-pressed.svg);
+}
+.custom .face.down{
+    left: 56px;
+    top: 112px;
+background: url(3button-buttons-pad-pressed.svg);
+    -webkit-transform: rotateX(180deg);
+    transform: rotateX(180deg);
+}
+.custom .face.left{
+    top: 56px;
+    left: 0;
+background: url(3button-buttons-pad-pressed.svg);
+    -webkit-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+}
+.custom .face.right{
+    top: 56px;
+    right: 0px;
+background: url(3button-buttons-pad-pressed.svg);
+    -webkit-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+.custom .face.pressed{
+background: url(3button-buttons-pad-pressed.svg);
+
+}
+/* NOTE: You NEED to set this to exactly half the height of what is listed 
+for '.controller.custom' so when your skin is activated via player selection
+parameters (e.g. http://mrmcpowned.com/gamepad?p=1) it will be correctly
+centered on screen. */
+.custom.half{
+    margin-top: -279px;
+}
