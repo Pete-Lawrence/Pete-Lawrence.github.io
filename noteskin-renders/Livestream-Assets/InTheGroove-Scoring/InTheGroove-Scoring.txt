@@ -1,10 +1,10 @@
 Judgement			Points		Life		Early/Late Window (ms)
-(FA+) FANTASTIC 		+5		+8		+/- 0.0165
-FANTASTIC			+5		+8		+/- 0.0230
-EXCELLENT			+4		+8		+/- 0.0445
-GREAT				+2		+4		+/- 0.1035
-DECENT 				0		+0		+/- 0.1365
-WAY OFF 			-6		-50		+/- 0.1815
+(FA+) FANTASTIC 		+5		+8		+/-  15.0
+FANTASTIC			+5		+8		+/-  23.0
+EXCELLENT			+4		+8		+/-  44.5
+GREAT				+2		+4		+/- 103.5
+DECENT 				0		+0		+/- 136.5
+WAY OFF 			-6		-50		+/- 181.5
 MISS 				-12		-100		n/a
 
 HOLD/ROLL			+5		+8	
