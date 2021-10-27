@@ -13,5 +13,5 @@ If your PC is powerful enough, try using an animated one!
 
 ---
 
-## [In The Groove Scoring Charts](https://github.com/Pete-Lawrence/Pete-Lawrence.github.io/tree/master/noteskin-renders/InTheGroove-Scoring)
+## [In The Groove Scoring Charts](https://github.com/Pete-Lawrence/Pete-Lawrence.github.io/tree/master/noteskin-renders/Livestream-Assets/InTheGroove-Scoring)
 ![InTheGroove-Scoring-Judgements](https://pete-lawrence.github.io/noteskin-renders/Livestream-Assets/InTheGroove-Scoring/InTheGroove-Scoring-Judgements.png)
