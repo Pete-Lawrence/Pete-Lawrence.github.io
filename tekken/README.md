@@ -3,8 +3,8 @@
 ![default pc/xbox style](https://pete-lawrence.github.io/tekken/screenshots/gamepad-pc.png)
 ### Video example: [https://www.youtube.com/watch?v=fvnVDxeJVcg](https://www.youtube.com/watch?v=fvnVDxeJVcg)
 Tekken skin for Mr McPowned's Gamepad Viewer by [Peter Lawrence aka MegaSphere](https://www.youtube.com/c/PeterLawrenceYT/videos) for OBS.
-
 This skin supports all built-in button macros for Tekken.
+<br>
 
 ## 1. Here are some premade configurations.
 Create a **Browser source in OBS** with a Width of **1000** and Height of **400**. For the URL, pick one of the links below with the description that best fits you.
@@ -17,22 +17,18 @@ Create a **Browser source in OBS** with a Width of **1000** and Height of **400*
 * [Peter's Tekken config, default Tekken but R2 is 1+4, L2 is 1+2+3+4, all other buttons disabled](https://gamepadviewer.com/?p=1&css=https%3A%2F%2Fpete-lawrence.github.io%2Ftekken%2Ftekken.css&map=%7B%22mapping%22%3A%5B%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%229%22%2C%22disabled%22%3Atrue%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%2211%22%2C%22disabled%22%3Atrue%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%2210%22%2C%22disabled%22%3Atrue%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%224%22%2C%22disabled%22%3Atrue%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%226%22%2C%22disabled%22%3Atrue%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%228%22%2C%22disabled%22%3Afalse%2C%22choiceType%22%3A%22buttons%22%2C%22choice%22%3A%226%22%7D%5D%7D)
 
 * [Peter's other Tekken config, Korean Style but Cross = 3+4, Square = 1+2, L1 = RA, L2 = 1+4](https://gamepadviewer.com/?p=1&css=https%3A%2F%2Fpete-lawrence.github.io%2Ftekken%2Ftekken.css&map=%7B%22mapping%22%3A%5B%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%226%22%2C%22disabled%22%3Atrue%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%224%22%2C%22disabled%22%3Atrue%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%228%22%2C%22disabled%22%3Atrue%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%2211%22%2C%22disabled%22%3Afalse%2C%22choiceType%22%3A%22buttons%22%2C%22choice%22%3A%220%22%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%2210%22%2C%22disabled%22%3Afalse%2C%22choiceType%22%3A%22buttons%22%2C%22choice%22%3A%222%22%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%225%22%2C%22disabled%22%3Afalse%2C%22choiceType%22%3A%22buttons%22%2C%22choice%22%3A%224%22%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%227%22%2C%22disabled%22%3Afalse%2C%22choiceType%22%3A%22buttons%22%2C%22choice%22%3A%226%22%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%220%22%2C%22disabled%22%3Afalse%2C%22choiceType%22%3A%22buttons%22%2C%22choice%22%3A%221%22%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%221%22%2C%22disabled%22%3Afalse%2C%22choiceType%22%3A%22buttons%22%2C%22choice%22%3A%227%22%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%222%22%2C%22disabled%22%3Afalse%2C%22choiceType%22%3A%22buttons%22%2C%22choice%22%3A%223%22%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%223%22%2C%22disabled%22%3Afalse%2C%22choiceType%22%3A%22buttons%22%2C%22choice%22%3A%225%22%7D%5D%7D)
+<br>
 
 ## 2. Setting up your own configuration.
-<details>
-<summary><i>Step 1. Go to 'Button Rebinding' on gamepadviewer.com</i></summary>
-<div>
 
-<br>**[Go to 'Button Rebinding' here,](https://gamepadviewer.com/#remap)** When the page loads, press a button on your controller and select **"Player 1"** for **"Please select the controller to use as a mapping base"**.
+### Step 1.<br>Go to 'Button Rebinding' on gamepadviewer.
 
-</div>
-</details>
+**[Go to 'Button Rebinding' here,](https://gamepadviewer.com/#remap)** When the page loads, press a button on your controller and select **"Player 1"** for **"Please select the controller to use as a mapping base"**.
 
 ---
 
-<details>
-<summary><i>Step 2. Setting up your button macros to match your own configuration ingame</i></summary>
-<div>
+
+### Step 2.<br>Setting up your button macros to match your own configuration ingame.
 
 * Click **"Add New Mapping"** and select the button in the dropdown menu that has the button macro you desire as listed in **[Default Mapping](https://pete-lawrence.github.io/#3-default-mapping)**.
 
@@ -42,26 +38,19 @@ Create a **Browser source in OBS** with a Width of **1000** and Height of **400*
 
 * Repeat as many times as needed to cover all your button macros before moving onto disabling unused buttons.
 
-</div>
-</details>
-
 ---
 
-<details>
-<summary><i>Step 3. Disabling all the unused buttons</i></summary>
-<div>
 
-<br>When you're done setting up button macros, time to tidy things up by disabling all the unused buttons.
+### Step 3.<br>Disable all the unused buttons.
+
+When you're done setting up button macros, time to tidy things up by disabling all the unused buttons.
 * Click **"Add New Mapping"** and select the button in the dropdown menu that has a button macro you **DO NOT USE** as listed in **[Default Mapping](https://pete-lawrence.github.io/#3-default-mapping)** and then click **"Disable"**. Don't worry if that button you disabled is a button you want to apply a *different* macro to.
 
-</div>
-</details>
-
 ---
 
-<details>
-<summary><i>Step 4. Export configuration</i></summary>
-<div>
+
+### Step 4.<br>Export the configuration.
+
 
 <br>When you are done follow these steps in this order, 
 1. Press **"Apply Mapping"**
@@ -72,13 +61,11 @@ Create a **Browser source in OBS** with a Width of **1000** and Height of **400*
 
 4. Finally create a **Browser source in OBS** with a Width of **1000** and Height of **400** and paste in the **generated URL**.
 
-</div>
-</details>
-
 ---
 
+<br>
 
-## 3. Default Mapping
+## 3. Default Mapping.
 ![Default Mapping](https://pete-lawrence.github.io/tekken/screenshots/gamepad-mapping.png)
 
 X/Square = **1**
@@ -88,38 +75,38 @@ Y/Triangle = **2**
 A/Cross = **3**
 
 B/Circle = **4**
-
+<br><br>
 
 RB/R1 = **RA**
 
 RT/R2 = **1+4**
-
+<br><br>
 
 LB/L1 = **2+4**
 
 LT/L2 = **2+3**
-
+<br><br>
 
 RS/R3 = **3+4**
 
 LS/L3 = **1+2**
-
+<br><br>
 
 Start = **1+3**
 
 Back/Select = **1+2+3+4**
 
+<br>
 
-## 4. Bonus Skins
-**Copy and paste the code below into "custom CSS" in the browser window for OBS**
+## 4. Bonus Skins (optional).
+**Copy and paste the css code into "custom CSS" in the browser window for OBS to add the skin.**
+<br>Note: You will have to wait around 20 seconds before it updates so don't panic if it doesn't instantly work.
 
-Note: You will have to wait around 20 seconds before it updates so don't panic if it doesn't instantly work.
+---
 
 ![default ps style](https://pete-lawrence.github.io/tekken/screenshots/gamepad-ps.png)
 
-<details>
-<summary><b>PlayStation button colours css</b></summary>
-<div>
+PlayStation button colours css.
 
 ```css
 /*Face Buttons*/
@@ -136,16 +123,14 @@ Note: You will have to wait around 20 seconds before it updates so don't panic i
 .custom .trigger { background: url(https://pete-lawrence.github.io/tekken/tekken-button-combos-ps.svg); }
 ```
 
-</div>
-</details>
+
+
 
 ---
 
 ![clear white style](https://pete-lawrence.github.io/tekken/screenshots/gamepad-clear-white.png)
 
-<details>
-<summary><b>Clear theme css</b></summary>
-<div>
+Clear theme css.
 
 ```css
 /*Face Buttons*/
@@ -177,16 +162,11 @@ background: url(https://pete-lawrence.github.io/tekken/tekken-clear.svg);
 background-position-x: -910px; }
 ```
 
-</div>
-</details>
-
 ---
 
 ![clear red/white style](https://pete-lawrence.github.io/tekken/screenshots/gamepad-clear-red.png)
 
-<details>
-<summary><b>Clear theme with red arcade style button colours css</b></summary>
-<div>
+Clear theme with red arcade style button colours css.
 
 ```css
 /*Face Buttons*/
@@ -218,16 +198,11 @@ background: url(https://pete-lawrence.github.io/tekken/tekken-clear-red.svg);
 background-position-x: -910px; }
 ```
 
-</div>
-</details>
-
 ---
 
 ![clear pc/xbox style](https://pete-lawrence.github.io/tekken/screenshots/gamepad-clear-pc.png)
 
-<details>
-<summary><b>Clear theme with PC/Xbox style button colours css</b></summary>
-<div>
+Clear theme with PC/Xbox style button colours css.
 
 ```css
 /*Button Panel*/
@@ -246,16 +221,11 @@ background: url(https://pete-lawrence.github.io/tekken/tekken-clear-pc.svg);
 background-position-x: -910px; }
 ```
 
-</div>
-</details>
-
 ---
 
 ![clear ps style](https://pete-lawrence.github.io/tekken/screenshots/gamepad-clear-ps.png)
 
-<details>
-<summary><b>Clear theme with PlayStation button colours css</b></summary>
-<div>
+Clear theme with PlayStation button colours css.
 
 ```css
 /*Face Buttons*/
@@ -287,8 +257,4 @@ background: url(https://pete-lawrence.github.io/tekken/tekken-clear-ps.svg);
 background-position-x: -910px; }
 ```
 
-</div>
-</details>
-
 ---
-
