@@ -72,7 +72,7 @@ LS/L3 = **1+2**
 
 Start = **1+3**
 
-Select/Back = **1+2+3+4**
+Back/Select = **1+2+3+4**
 
 
 ## 4. Bonus Skins
