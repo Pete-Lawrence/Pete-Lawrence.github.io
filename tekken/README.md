@@ -41,7 +41,7 @@ When you are done follow these steps in this order,
 
 2. Press **"Export Mapping to URL Generator"**
 
-3. Paste this link into **"Custom CSS URL:**" [https://pete-lawrence.github.io/tekken.css](https://pete-lawrence.github.io/tekken/tekken.css)
+3. Paste this link into **"Custom CSS URL:**" [https://pete-lawrence.github.io/tekken/tekken.css](https://pete-lawrence.github.io/tekken/tekken.css)
 
 4. Finally create a **Browser source in OBS** with a Width of **1000** and Height of **400** and paste in the **generated URL**.
 
