@@ -1,7 +1,7 @@
 # [Tekken-Gamepad](https://pete-lawrence.github.io/tekken)
 ![default pc/xbox style](https://pete-lawrence.github.io/tekken/screenshots/gamepad-pc.png)
 ### Video example: [https://www.youtube.com/watch?v=fvnVDxeJVcg](https://www.youtube.com/watch?v=fvnVDxeJVcg)
-Tekken skin for Mr McPowned's Gamepad Viewer by [Peter Lawrence](https://steamcommunity.com/id/PeterLawrence/) for OBS.
+Tekken skin for Mr McPowned's Gamepad Viewer by [Peter Lawrence aka MegaSphere](https://www.youtube.com/c/PeterLawrenceYT/videos) for OBS.
 
 This skin supports all built-in button macros for Tekken.
 
