@@ -30,7 +30,7 @@ Create a **Browser source in OBS** with a Width of **1000** and Height of **400*
 
 ### Step 2.<br>Setting up your button macros to match your own configuration ingame.
 
-* Click **"Add New Mapping"** and select the button in the dropdown menu that has the button macro you desire as listed in **[Default Mapping](https://pete-lawrence.github.io/#3-default-mapping)**.
+* Click **"Add New Mapping"** and select the button in the dropdown menu that has the button macro you desire as listed in **[Default Mapping](https://pete-lawrence.github.io/tekken/#3-default-mapping)**.
 
 * Click **"Click to Set"** and press the button on your controller that you want the button macro applied to (before **"Waiting for Button Press..."** times out).
 
