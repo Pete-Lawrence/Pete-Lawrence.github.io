@@ -1,6 +1,12 @@
 # [Pete-Lawrence.github.io](https://pete-lawrence.github.io)
-# Livestream Assets
-To make livestreams more beginner-friendly add ones of these to your stream.
-If your PC is powerful enough, [try using an animated one!](https://github.com/Pete-Lawrence/Pete-Lawrence.github.io/tree/master/noteskin-renders/Livestream-Assets/Animated)
+# [Peters-Noteskins](https://github.com/Pete-Lawrence/Peters-Noteskins)
+## [Livestream Assets](https://github.com/Pete-Lawrence/Pete-Lawrence.github.io/tree/master/noteskin-renders/Livestream-Assets)
 
 ![Still](https://pete-lawrence.github.io/noteskin-renders/Livestream-Assets/Still/Still_CF_CHROME.png)
+
+To make livestreams more beginner-friendly add ones of these to your stream.<br>
+If your PC is powerful enough, try using an animated one!
+
+### [Animated](https://github.com/Pete-Lawrence/Pete-Lawrence.github.io/tree/master/noteskin-renders/Livestream-Assets/Animated)
+
+### [Still](https://github.com/Pete-Lawrence/Pete-Lawrence.github.io/tree/master/noteskin-renders/Livestream-Assets/Still)
