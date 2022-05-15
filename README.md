@@ -35,13 +35,15 @@ Charity events including
 
 Map pack with [all original soundtrack](https://www.youtube.com/watch?v=aOR-238gLxc) by me designed around the Nightmare! difficulty.
 
-## [Not Rest For The Living MIDI Pack](https://www.doomworld.com/forum/topic/119301)
+## [No Rest For The Living MIDI Pack](https://www.doomworld.com/forum/topic/119301)
 [![Video Demostration](https://img.youtube.com/vi/UFVUL2WwTJo/maxresdefault.jpg)](https://youtu.be/UFVUL2WwTJo)
 
-
+No Rest For The Living is an official expansion pack for Doom II which originally had no soundtrack. This MIDI pack is a fan made add-on to add bespoke soundtrack. The project was led by me.
 
 ## [Master Levels for Doom II - 25th Anniversary MIDI Pack](https://www.doomworld.com/forum/topic/118804-master-levels-for-doom-ii-25th-anniversary-midi-pack/)
 [![Video Demostration](https://img.youtube.com/vi/qtqF6lHNZ1U/maxresdefault.jpg)](https://youtu.be/qtqF6lHNZ1U)
+
+Master Levels for Doom II is another official expansion pack for Doom II which also had no original soundtrack. This MIDI pack was created by myself, all original music.
 
 # Music Tools
 ## [MegaSphere CamelCrusher Skin](https://github.com/Pete-Lawrence/Pete-Lawrence.github.io/raw/master/camelcrusher-megasphere-skin/MegaSphere_CamelCrusher_Skin.zip)
@@ -57,5 +59,6 @@ CLI #C app made for yourself practicing getting quick at naming and identifying 
 # Music Links (MegaSphere)
 ### [Bandcamp](https://megasphere.bandcamp.com/)
 ### [Spotify](https://open.spotify.com/artist/7zKw7UIIFCd52qXnM7tQ24)
+### [Soundcloud](https://soundcloud.com/megasphere)
 ### [YouTube](https://www.youtube.com/c/MegaSphere/videos)
 ### [Newgrounds](https://megasphere.newgrounds.com/audio)
