@@ -1,5 +1,7 @@
 # [Pete-Lawrence.github.io](https://pete-lawrence.github.io)
 # [StepManiaX](https://pete-lawrence.github.io/smx)
+![StepManiaX](https://pete-lawrence.github.io/smx/png/SMX_preview.png)
+
 StepManiaX skin for Mr McPowned's Gamepad Viewer by [Peter Lawrence aka MegaSphere](https://www.youtube.com/c/PeterLawrenceYT/videos) for OBS.
 
 Designed for use with my idle and pressed GIFs here:
