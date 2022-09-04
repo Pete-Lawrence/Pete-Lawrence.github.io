@@ -1,0 +1,40 @@
+.controller.custom{
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+  width: 512px;
+  height: 512px;
+  background: url(png/SMX_spritesheet.png) left center;
+  animation: play 3.34s steps(60) infinite;
+}
+
+.custom .button{
+    position: absolute;
+    width: 512px;
+    height: 512px;
+}
+
+.custom .a.pressed{
+background: url(png/SMX_spritesheet_Pink.png);
+    -webkit-transform: rotateX(180deg);
+    transform: rotateX(180deg);
+}
+.custom .b.pressed{
+background: url(png/SMX_spritesheet_Blue.png);
+}
+.custom .x.pressed{
+background: url(png/SMX_spritesheet_Blue.png);
+    -webkit-transform: rotateX(180deg);
+    transform: rotateX(180deg);
+}
+.custom .y.pressed{
+background: url(png/SMX_spritesheet_Pink.png);
+}
+
+}
+/* NOTE: You NEED to set this to exactly half the height of what is listed 
+for '.controller.custom' so when your skin is activated via player selection
+parameters (e.g. http://mrmcpowned.com/gamepad?p=1) it will be correctly
+centered on screen. */
+.custom.half{
+    margin-top: -256px;
+}
