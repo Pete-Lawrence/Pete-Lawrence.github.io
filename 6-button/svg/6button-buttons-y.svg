@@ -5,6 +5,6 @@
         <ellipse cx="350" cy="539.25" rx="25" ry="23.25" style="fill:white;stroke:white;stroke-width:1.15px;"/>
     </g>
     <g transform="matrix(1,0,0,1,-380.5,-190.775)">
-        <path d="M546,230L557,231L564,223L557,231L560,237" style="fill:none;stroke:rgb(172,172,172);stroke-width:3px;"/>
+        <path d="M546,230L557,231L564,223L557,231L560,237" style="fill:none;stroke:red;stroke-width:3px;"/>
     </g>
 </svg>

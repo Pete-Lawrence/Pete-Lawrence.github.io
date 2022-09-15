@@ -5,9 +5,9 @@
         <ellipse cx="350" cy="539.25" rx="25" ry="23.25" style="fill:white;stroke:white;stroke-width:1.05px;"/>
     </g>
     <g transform="matrix(0.386362,-0.17202,0.17202,0.386362,-44.0297,71.3223)">
-        <path d="M362.5,300L387.5,275L412.5,300" style="fill:none;stroke:rgb(172,172,172);stroke-width:7.09px;"/>
+        <path d="M362.5,300L387.5,275L412.5,300" style="fill:none;stroke:red;stroke-width:7.09px;"/>
     </g>
     <g transform="matrix(0.386362,-0.17202,0.17202,0.386362,-44.0297,71.3223)">
-        <path d="M375,287.5L400,287.5" style="fill:none;stroke:rgb(172,172,172);stroke-width:7.09px;"/>
+        <path d="M375,287.5L400,287.5" style="fill:none;stroke:red;stroke-width:7.09px;"/>
     </g>
 </svg>
