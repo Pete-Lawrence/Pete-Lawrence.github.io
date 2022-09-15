@@ -10,7 +10,7 @@ SEGA 6-Button Mega Drive/Genesis skin for Mr McPowned's Gamepad Viewer by [Peter
 
 ## Configuration for SEGA 6-Button Controller (USB pad from Retro-Bit)
 Create a **Browser source in OBS** with a Width of **800** and Height of **600** and use this URL.
-<br>Note: You may have to check your Switch Macros. Set the controller set to X Input mode, and enable D-Pad input.
+<br>Note: You may have to check your Switch Macros. [Set the controller set to X Input mode, and enable D-Pad input.](https://www.dropbox.com/s/vrwqay1wswrajj8/RB_SEGA%20Genesis_6B_USB_NA_MANUAL_06-26-19.pdf?dl=0)
 * [Configuration for SEGA 6-Button Controller (USB pad from Retro-Bit)](https://gamepadviewer.com/?p=1&css=https%3A%2F%2Fpete-lawrence.github.io%2F6-button%2Fskin.css)
 
 ---
