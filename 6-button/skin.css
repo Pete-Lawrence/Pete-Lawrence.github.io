@@ -1,0 +1,113 @@
+.controller.custom{
+    background: url(svg/6button-body.svg); 
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    width: 800px;
+    height: 600px;
+}
+
+
+/* This is to size and position the containing div for the 
+start button. 
+.custom .arrows{
+    position: absolute;
+    width: 222px;
+    height: 195px;
+    top: 214px;
+    left: 358px;
+}
+*/
+/* Positioning and size of the container for the face buttons */
+.custom .abxy{
+    background: url(svg/6button-buttons.svg); 
+    position: absolute;
+    width: 222px;
+    height: 195px;
+    top: 152px;
+    left: 452px;
+}
+/* base class used to simplify the sprite mapping */
+.custom .button{
+    position: absolute;
+    width: 222px;
+    height: 195px;
+}
+
+.custom .a.pressed{
+background: url(svg/6button-buttons-a.svg);
+}
+.custom .b.pressed{
+background: url(svg/6button-buttons-b.svg);
+}
+.custom .x.pressed{
+background: url(svg/6button-buttons-x.svg);
+}
+.custom .y.pressed{
+background: url(svg/6button-buttons-y.svg);
+}
+
+.custom .bumper.left.pressed {
+background: url(svg/6button-buttons-z.svg);
+}
+
+.custom .bumper.right.pressed {
+background: url(svg/6button-buttons-c.svg);
+}
+
+.custom .start.pressed{
+background: url(svg/6button-buttons-start.svg);
+}
+
+/* Dpad possitioning and sizing */
+.custom .dpad{
+    background: url(svg/6button-dpad.svg); 
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top: 162px;
+    left: 138px;
+}
+.custom .face{
+    position: absolute;
+}
+.custom .face.up, .custom .face.down{
+    width: 200px;
+    height: 200px;
+}
+.custom .face.left, .custom .face.right{
+    width: 200px;
+    height: 200px;
+}
+.custom .face.up.pressed{
+
+background: url(svg/6button-dpad-pressed.svg);
+}
+.custom .face.down.pressed{
+
+background: url(svg/6button-dpad-pressed.svg);
+    -webkit-transform: rotateX(180deg);
+    transform: rotateX(180deg);
+}
+.custom .face.left.pressed{
+
+background: url(svg/6button-dpad-pressed.svg);
+    -webkit-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+}
+.custom .face.right.pressed{
+
+background: url(svg/6button-dpad-pressed.svg);
+    -webkit-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+.custom .face.pressed{
+background: url(svg/6button-dpad-pressed.svg);
+
+}
+/* NOTE: You NEED to set this to exactly half the height of what is listed 
+for '.controller.custom' so when your skin is activated via player selection
+parameters (e.g. http://mrmcpowned.com/gamepad?p=1) it will be correctly
+centered on screen. */
+.custom.half{
+    margin-top: -300px;
+}

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 283 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(0.900901,0,0,1.33333,-348.599,-520.442)">
+        <path d="M443,437C443,433.689 439.021,431 434.12,431L396.38,431C391.479,431 387.5,433.689 387.5,437C387.5,440.311 391.479,443 396.38,443L434.12,443C439.021,443 443,440.311 443,437Z" style="fill:rgb(255,0,0);stroke:white;stroke-width:0.88px;"/>
+    </g>
+    <g transform="matrix(0.834543,-0.371562,0.399529,0.897358,-352.695,-237.744)">
+        <ellipse cx="350" cy="539.25" rx="25" ry="23.25" style="fill:rgb(57,57,57);stroke:white;stroke-width:1.05px;"/>
+    </g>
+    <g transform="matrix(0.834543,-0.371562,0.399529,0.897358,-301.298,-263.676)">
+        <ellipse cx="350" cy="539.25" rx="25" ry="23.25" style="fill:rgb(57,57,57);stroke:white;stroke-width:1.05px;"/>
+    </g>
+    <g transform="matrix(0.834543,-0.371562,0.399529,0.897358,-248.377,-284.19)">
+        <ellipse cx="350" cy="539.25" rx="25" ry="23.25" style="fill:rgb(57,57,57);stroke:white;stroke-width:1.05px;"/>
+    </g>
+    <g transform="matrix(0.386362,-0.17202,0.17202,0.386362,-44.0297,71.3223)">
+        <path d="M362.5,300L387.5,275L412.5,300" style="fill:none;stroke:black;stroke-width:7.09px;"/>
+    </g>
+    <g transform="matrix(0.386362,-0.17202,0.17202,0.386362,1.00292,31.0955)">
+        <path d="M362.5,337.5L362.5,312.5L406.25,312.5L406.29,312.5C409.721,312.522 412.5,315.314 412.5,318.75C412.5,322.199 409.699,325 406.25,325C409.699,325 412.5,327.801 412.5,331.25C412.5,334.699 409.699,337.5 406.25,337.5L362.5,337.5Z" style="fill:none;stroke:black;stroke-width:7.09px;"/>
+    </g>
+    <g transform="matrix(0.386362,-0.17202,0.17202,0.386362,1.00292,31.0955)">
+        <path d="M406.5,325L362.5,325" style="fill:none;stroke:black;stroke-width:7.09px;"/>
+    </g>
+    <g transform="matrix(0.386362,-0.17202,0.17202,0.386362,-44.0297,71.3223)">
+        <path d="M375,287.5L400,287.5" style="fill:none;stroke:black;stroke-width:7.09px;"/>
+    </g>
+    <g transform="matrix(0.386362,-0.17202,0.17202,0.386362,47.1724,-3.54181)">
+        <path d="M412.5,350L362.5,350L362.5,375L412.5,375" style="fill:none;stroke:black;stroke-width:7.09px;"/>
+    </g>
+    <g transform="matrix(0.764998,-0.340599,0.366235,0.822578,-336.304,-260.353)">
+        <ellipse cx="350" cy="539.25" rx="25" ry="23.25" style="fill:rgb(172,172,172);stroke:white;stroke-width:1.15px;"/>
+    </g>
+    <g transform="matrix(0.764998,-0.340599,0.366235,0.822578,-289.19,-284.124)">
+        <ellipse cx="350" cy="539.25" rx="25" ry="23.25" style="fill:rgb(172,172,172);stroke:white;stroke-width:1.15px;"/>
+    </g>
+    <g transform="matrix(0.764998,-0.340599,0.366235,0.822578,-240.679,-302.928)">
+        <ellipse cx="350" cy="539.25" rx="25" ry="23.25" style="fill:rgb(172,172,172);stroke:white;stroke-width:1.15px;"/>
+    </g>
+    <g transform="matrix(0.354166,-0.157685,0.157685,0.354166,-53.3605,22.958)">
+        <path d="M362.5,300L412.49,277.584" style="fill:none;stroke:black;stroke-width:7.74px;"/>
+    </g>
+    <g transform="matrix(0.354166,-0.157685,0.157685,0.354166,-53.3605,22.958)">
+        <path d="M362.731,275.194L411.166,299.582" style="fill:none;stroke:black;stroke-width:7.74px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-380.5,-190.775)">
+        <path d="M594.316,211.905L612.024,204L598,221L616,213" style="fill:none;stroke:black;stroke-width:3px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-380.5,-190.775)">
+        <path d="M546,230L557,231L564,223L557,231L560,237" style="fill:none;stroke:black;stroke-width:3px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-147.271,55.7111)">
+        <text x="154.617px" y="31.522px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">START</text>
+    </g>
+</svg>

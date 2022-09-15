@@ -4,78 +4,76 @@
     <g id="Layer1">
         <path d="M400.97,100.001C566.112,100.277 700,169.394 700,260C700,340 660,450 580,450C534,450 521.371,407.357 520,407.655C500,360 460,360 400.715,360C400.478,360 400.24,359.994 400,359.982C399.76,359.994 399.522,360 399.285,360C340,360 300,360 280,407.655C278.629,407.357 266,450 220,450C140,450 100,340 100,260C100,169.213 234.425,100 400,100L400.97,100.001Z" style="fill:rgb(57,57,57);"/>
     </g>
-    <g id="Sega-Logo.wine.svg" transform="matrix(0.0833333,0,0,0.0833333,402,250)">
-        <g id="Layer2">
-            <g id="Sega-Logo.wine.svg1" serif:id="Sega-Logo.wine.svg" transform="matrix(1,0,0,1,-600,-400)">
-                <path d="M159.588,532.026L274.902,531.909C322.08,531.909 360.314,493.792 360.314,446.826C360.314,399.768 322.08,361.648 274.902,361.648L244.954,361.811C242.594,361.811 240.68,359.875 240.68,357.494C240.68,355.112 242.594,353.174 244.954,353.174L360.058,353.198L360.105,317.088L244.929,317.088C222.662,317.088 204.545,335.177 204.545,357.402C204.545,379.648 222.658,397.666 244.929,397.666L275.018,398.063C302.049,398.063 323.923,419.863 323.923,446.758C323.923,473.672 302.052,495.522 275.018,495.522L159.634,495.522L159.588,532.026" style="fill:white;fill-rule:nonzero;"/>
-                <path d="M159.634,487.045L275.018,487.045C297.357,487.045 315.425,469.026 315.425,446.755C315.425,424.509 297.357,406.512 275.018,406.512L244.929,406.186C217.945,406.186 196.049,384.362 196.049,357.398C196.049,330.509 217.945,308.682 244.929,308.682L360.105,308.657L360.058,272.408L244.954,272.408C197.825,272.408 159.542,310.482 159.542,357.494C159.542,404.506 197.825,442.602 244.954,442.602L274.738,442.648C277.003,442.648 278.917,444.494 278.917,446.826C278.917,449.115 277.003,450.958 274.738,450.958L159.588,451.051L159.634,487.045M449.717,495.752C429.711,495.752 413.323,479.808 413.323,459.451L413.323,344.257C413.323,324.672 429.711,308.565 449.717,308.565L572.803,308.586L572.803,272.408L449.717,272.408C409.662,272.408 377.215,304.737 377.215,344.654L377.215,459.454C377.215,499.374 409.662,531.749 449.717,531.749L572.289,531.798L572.265,495.709L449.717,495.752" style="fill:white;fill-rule:nonzero;"/>
-                <path d="M422.148,344.654C422.148,329.389 434.428,317.017 449.717,317.017L572.803,317.017L572.803,353.245L466.757,353.245C458.262,353.245 458.145,361.672 458.145,361.672L546.615,361.672L546.615,397.737L422.105,397.737L422.148,344.654M449.717,486.977C434.474,486.977 422.102,474.675 422.102,459.454L422.102,406.325L546.612,406.325L546.612,442.463L458.142,442.463C458.258,450.958 466.754,451.002 466.754,451.002L572.286,451.002L572.262,486.928L449.717,486.977M659.058,495.66C639.123,495.66 622.831,479.414 622.831,459.451L622.831,344.651C622.831,324.669 639.006,308.562 658.963,308.562L778.178,308.562L778.178,272.408L658.686,272.408C618.649,272.408 586.203,304.737 586.203,344.654L586.203,459.454C586.203,499.374 618.929,531.749 658.963,531.749L778.178,531.798L778.178,361.672L675.726,361.672L675.726,397.737L741.972,397.737L741.972,495.66L659.058,495.66" style="fill:white;fill-rule:nonzero;"/>
-                <path d="M631.326,459.451C631.326,474.746 643.698,487.186 658.963,487.186L733.428,487.186L733.428,406.278L675.815,406.278L675.815,442.463L697.197,442.463L697.265,450.958L675.978,450.958C671.332,450.958 667.529,447.109 667.529,442.463L667.338,361.648C667.338,361.648 667.314,353.245 675.883,353.035L778.218,353.035L778.172,316.992L658.957,317.017C643.692,317.017 631.32,329.389 631.32,344.654L631.32,459.451M890.2,316.478C891.806,311.882 896.172,308.568 901.332,308.568C906.495,308.568 910.905,311.882 912.468,316.478L970.338,487.442L885.6,487.442L885.692,447.223L914.009,447.223L901.262,409.337L859.735,531.768L817.018,531.768L890.2,316.478" style="fill:white;fill-rule:nonzero;"/>
-                <path d="M982.006,495.66L885.742,495.66L885.742,531.768L1032.24,531.768L956.049,306.346C949.372,284.358 927.363,268.183 901.308,268.183C875.212,268.183 853.271,284.288 846.545,306.257L769.655,531.771L808.009,531.771L882.662,312.558C885.692,305.3 892.84,300.186 901.243,300.186C909.6,300.186 916.788,305.3 919.846,312.512L982.006,495.66" style="fill:white;fill-rule:nonzero;"/>
-                <path d="M1004.63,301.097C1011.45,301.097 1017.87,298.435 1022.67,293.651C1027.48,288.82 1030.17,282.448 1030.17,275.632C1030.17,268.863 1027.48,262.512 1022.67,257.682C1017.87,252.922 1011.45,250.26 1004.63,250.26C990.6,250.26 979.138,261.629 979.138,275.635C979.138,282.451 981.8,288.823 986.652,293.654C991.44,298.435 997.834,301.097 1004.63,301.097M982.735,275.629C982.735,269.817 984.975,264.309 989.151,260.177C993.308,256.045 998.815,253.805 1004.63,253.805C1010.51,253.805 1016.02,256.048 1020.18,260.177C1024.31,264.309 1026.6,269.817 1026.6,275.629C1026.6,287.697 1016.75,297.5 1004.63,297.5C998.812,297.5 993.305,295.235 989.151,291.103C984.972,286.974 982.735,281.488 982.735,275.629Z" style="fill:white;fill-rule:nonzero;"/>
-                <path d="M998.092,277.777L998.092,289.774L994.403,289.774L994.403,261.577L1004.88,261.577C1008.83,261.623 1011.14,261.623 1013.34,263.278C1015.46,264.845 1016.35,267.202 1016.35,269.817C1016.35,276.402 1010.98,277.263 1009.62,277.543L1017.56,289.774L1013.1,289.774L1005.38,277.777L998.092,277.777M998.092,274.672L1005.59,274.672C1006.78,274.672 1007.9,274.672 1009.02,274.392C1011.63,273.762 1012.57,271.894 1012.57,269.842C1012.57,269.094 1012.5,267.205 1010.88,265.897C1009.41,264.66 1007.55,264.706 1005.38,264.706L998.092,264.706L998.092,274.672Z" style="fill:white;fill-rule:nonzero;"/>
-            </g>
-            <g id="Sega-Logo.wine.svg2" serif:id="Sega-Logo.wine.svg">
+    <g transform="matrix(0.0833333,0,0,0.0833333,352,216.667)">
+        <g id="Sega-Logo.wine.svg">
+            <g id="Layer2">
+                <g id="Sega-Logo.wine.svg1" serif:id="Sega-Logo.wine.svg">
+                    <path d="M159.588,532.026L274.902,531.909C322.08,531.909 360.314,493.792 360.314,446.826C360.314,399.768 322.08,361.648 274.902,361.648L244.954,361.811C242.594,361.811 240.68,359.875 240.68,357.494C240.68,355.112 242.594,353.174 244.954,353.174L360.058,353.198L360.105,317.088L244.929,317.088C222.662,317.088 204.545,335.177 204.545,357.402C204.545,379.648 222.658,397.666 244.929,397.666L275.018,398.063C302.049,398.063 323.923,419.863 323.923,446.758C323.923,473.672 302.052,495.522 275.018,495.522L159.634,495.522L159.588,532.026" style="fill:white;fill-rule:nonzero;"/>
+                    <path d="M159.634,487.045L275.018,487.045C297.357,487.045 315.425,469.026 315.425,446.755C315.425,424.509 297.357,406.512 275.018,406.512L244.929,406.186C217.945,406.186 196.049,384.362 196.049,357.398C196.049,330.509 217.945,308.682 244.929,308.682L360.105,308.657L360.058,272.408L244.954,272.408C197.825,272.408 159.542,310.482 159.542,357.494C159.542,404.506 197.825,442.602 244.954,442.602L274.738,442.648C277.003,442.648 278.917,444.494 278.917,446.826C278.917,449.115 277.003,450.958 274.738,450.958L159.588,451.051L159.634,487.045M449.717,495.752C429.711,495.752 413.323,479.808 413.323,459.451L413.323,344.257C413.323,324.672 429.711,308.565 449.717,308.565L572.803,308.586L572.803,272.408L449.717,272.408C409.662,272.408 377.215,304.737 377.215,344.654L377.215,459.454C377.215,499.374 409.662,531.749 449.717,531.749L572.289,531.798L572.265,495.709L449.717,495.752" style="fill:white;fill-rule:nonzero;"/>
+                    <path d="M422.148,344.654C422.148,329.389 434.428,317.017 449.717,317.017L572.803,317.017L572.803,353.245L466.757,353.245C458.262,353.245 458.145,361.672 458.145,361.672L546.615,361.672L546.615,397.737L422.105,397.737L422.148,344.654M449.717,486.977C434.474,486.977 422.102,474.675 422.102,459.454L422.102,406.325L546.612,406.325L546.612,442.463L458.142,442.463C458.258,450.958 466.754,451.002 466.754,451.002L572.286,451.002L572.262,486.928L449.717,486.977M659.058,495.66C639.123,495.66 622.831,479.414 622.831,459.451L622.831,344.651C622.831,324.669 639.006,308.562 658.963,308.562L778.178,308.562L778.178,272.408L658.686,272.408C618.649,272.408 586.203,304.737 586.203,344.654L586.203,459.454C586.203,499.374 618.929,531.749 658.963,531.749L778.178,531.798L778.178,361.672L675.726,361.672L675.726,397.737L741.972,397.737L741.972,495.66L659.058,495.66" style="fill:white;fill-rule:nonzero;"/>
+                    <path d="M631.326,459.451C631.326,474.746 643.698,487.186 658.963,487.186L733.428,487.186L733.428,406.278L675.815,406.278L675.815,442.463L697.197,442.463L697.265,450.958L675.978,450.958C671.332,450.958 667.529,447.109 667.529,442.463L667.338,361.648C667.338,361.648 667.314,353.245 675.883,353.035L778.218,353.035L778.172,316.992L658.957,317.017C643.692,317.017 631.32,329.389 631.32,344.654L631.32,459.451M890.2,316.478C891.806,311.882 896.172,308.568 901.332,308.568C906.495,308.568 910.905,311.882 912.468,316.478L970.338,487.442L885.6,487.442L885.692,447.223L914.009,447.223L901.262,409.337L859.735,531.768L817.018,531.768L890.2,316.478" style="fill:white;fill-rule:nonzero;"/>
+                    <path d="M982.006,495.66L885.742,495.66L885.742,531.768L1032.24,531.768L956.049,306.346C949.372,284.358 927.363,268.183 901.308,268.183C875.212,268.183 853.271,284.288 846.545,306.257L769.655,531.771L808.009,531.771L882.662,312.558C885.692,305.3 892.84,300.186 901.243,300.186C909.6,300.186 916.788,305.3 919.846,312.512L982.006,495.66" style="fill:white;fill-rule:nonzero;"/>
+                </g>
             </g>
         </g>
     </g>
     <g transform="matrix(1,0,0,1,0,-3)">
-        <g transform="matrix(0.99176,-0.128109,0.128109,0.99176,-15.9418,42.7841)">
-            <text x="324.621px" y="145.319px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">M</text>
+        <g transform="matrix(0.99176,-0.128109,0.128109,0.99176,324.621,145.319)">
+            <text x="0px" y="0px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">M</text>
         </g>
-        <g transform="matrix(0.994203,-0.107522,0.107522,0.994203,-13.5653,36.7162)">
-            <text x="333.704px" y="144.155px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">E</text>
+        <g transform="matrix(0.994203,-0.107522,0.107522,0.994203,333.704,144.155)">
+            <text x="0px" y="0px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">E</text>
         </g>
-        <g transform="matrix(0.995865,-0.0908469,0.0908469,0.995865,-11.614,31.5711)">
-            <text x="340.995px" y="143.363px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">G</text>
+        <g transform="matrix(0.995865,-0.0908469,0.0908469,0.995865,340.995,143.363)">
+            <text x="0px" y="0px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">G</text>
         </g>
-        <g transform="matrix(0.997175,-0.0751194,0.0751194,0.997175,-9.72393,26.6578)">
-            <text x="349.51px" y="142.592px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">A</text>
+        <g transform="matrix(0.997175,-0.0751194,0.0751194,0.997175,349.51,142.592)">
+            <text x="0px" y="0px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">A</text>
         </g>
-        <g transform="matrix(0.998428,-0.0560461,0.0560461,0.998428,-7.38451,20.3851)">
-            <text x="359.743px" y="141.847px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">D</text>
+        <g transform="matrix(0.998428,-0.0560461,0.0560461,0.998428,359.743,141.847)">
+            <text x="0px" y="0px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">D</text>
         </g>
-        <g transform="matrix(0.99908,-0.0428822,0.0428822,0.99908,-5.72529,15.8971)">
-            <text x="367.683px" y="141.399px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">R</text>
+        <g transform="matrix(0.99908,-0.0428822,0.0428822,0.99908,367.683,141.399)">
+            <text x="0px" y="0px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">R</text>
         </g>
-        <g transform="matrix(0.999406,-0.0344754,0.0344754,0.999406,-4.64011,13.0333)">
-            <text x="375.612px" y="141.068px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">I</text>
+        <g transform="matrix(0.999406,-0.0344754,0.0344754,0.999406,375.612,141.068)">
+            <text x="0px" y="0px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">I</text>
         </g>
-        <g transform="matrix(0.99965,-0.0264546,0.0264546,0.99965,-3.59636,10.0669)">
-            <text x="378.672px" y="140.954px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">V</text>
+        <g transform="matrix(0.99965,-0.0264546,0.0264546,0.99965,378.672,140.954)">
+            <text x="0px" y="0px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">V</text>
         </g>
-        <g transform="matrix(0.999885,-0.0151357,0.0151357,0.999885,-2.08628,5.85856)">
-            <text x="386.004px" y="140.76px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">E</text>
+        <g transform="matrix(0.999885,-0.0151357,0.0151357,0.999885,386.004,140.76)">
+            <text x="0px" y="0px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">E</text>
         </g>
-        <g transform="matrix(1,0.000325521,-0.000325521,1,0.045797,-0.128987)">
-            <text x="396.272px" y="140.624px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">C</text>
+        <g transform="matrix(1,0.000325521,-0.000325521,1,396.272,140.624)">
+            <text x="0px" y="0px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">C</text>
         </g>
-        <g transform="matrix(0.99992,0.0126166,-0.0126166,0.99992,1.80637,-5.08859)">
-            <text x="404.212px" y="140.624px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">O</text>
+        <g transform="matrix(0.99992,0.0126166,-0.0126166,0.99992,404.212,140.624)">
+            <text x="0px" y="0px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">O</text>
         </g>
-        <g transform="matrix(0.999686,0.0250396,-0.0250396,0.999686,3.65334,-10.2914)">
-            <text x="412.769px" y="140.734px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">N</text>
+        <g transform="matrix(0.999686,0.0250396,-0.0250396,0.999686,412.769,140.734)">
+            <text x="0px" y="0px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">N</text>
         </g>
-        <g transform="matrix(0.999338,0.0363853,-0.0363853,0.999338,5.4066,-15.2146)">
-            <text x="420.716px" y="140.936px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">T</text>
+        <g transform="matrix(0.999338,0.0363853,-0.0363853,0.999338,420.716,140.936)">
+            <text x="0px" y="0px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">T</text>
         </g>
-        <g transform="matrix(0.998826,0.0484401,-0.0484401,0.998826,7.3403,-20.5385)">
-            <text x="427.419px" y="141.175px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">R</text>
+        <g transform="matrix(0.998826,0.0484401,-0.0484401,0.998826,427.419,141.175)">
+            <text x="0px" y="0px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">R</text>
         </g>
-        <g transform="matrix(0.99807,0.0620998,-0.0620998,0.99807,9.63091,-26.7628)">
-            <text x="435.364px" y="141.557px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">O</text>
+        <g transform="matrix(0.99807,0.0620998,-0.0620998,0.99807,435.364,141.557)">
+            <text x="0px" y="0px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">O</text>
         </g>
-        <g transform="matrix(0.997123,0.0757983,-0.0757983,0.997123,12.0474,-33.237)">
-            <text x="443.886px" y="142.093px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">L</text>
+        <g transform="matrix(0.997123,0.0757983,-0.0757983,0.997123,443.886,142.093)">
+            <text x="0px" y="0px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">L</text>
         </g>
-        <g transform="matrix(0.995489,0.09488,-0.09488,0.995489,15.5917,-42.3288)">
-            <text x="452.92px" y="142.796px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">P</text>
+        <g transform="matrix(0.995489,0.09488,-0.09488,0.995489,452.92,142.796)">
+            <text x="0px" y="0px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">P</text>
         </g>
-        <g transform="matrix(0.993855,0.110694,-0.110694,0.993855,18.7116,-50.0616)">
-            <text x="460.219px" y="143.489px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">A</text>
+        <g transform="matrix(0.993855,0.110694,-0.110694,0.993855,460.219,143.489)">
+            <text x="0px" y="0px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">A</text>
         </g>
-        <g transform="matrix(0.991491,0.130178,-0.130178,0.991491,22.7621,-59.6313)">
-            <text x="467.507px" y="144.294px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">D</text>
+        <g transform="matrix(0.991491,0.130178,-0.130178,0.991491,467.507,144.294)">
+            <text x="0px" y="0px" style="font-family:'MicrosoftSansSerif', 'Microsoft Sans Serif', sans-serif;font-size:11px;fill:white;">D</text>
         </g>
     </g>
 </svg>
