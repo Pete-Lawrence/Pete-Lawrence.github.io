@@ -4,7 +4,7 @@
 ### Video example: [LMAO THERE AIN'T ONE CURRENTLY)
 SEGA 6-Button Mega Drive/Genesis skin for Mr McPowned's Gamepad Viewer by [Peter Lawrence aka MegaSphere](https://www.youtube.com/c/PeterLawrenceYT/videos) for OBS.
 
-[Link to the documentation for the hella goofy Switch Macros for the Retro-Bit SEGA 6-Button Controller](https://www.dropbox.com/s/s5oqtgc2sum79o0/RB_SEGA%20Genesis_8B_USB%20_NA_MANUAL_06-26-19.pdf?dl=0)
+[Link to the documentation for the hella goofy Switch Macros for the Retro-Bit SEGA 6-Button Controller](https://www.dropbox.com/s/vrwqay1wswrajj8/RB_SEGA%20Genesis_6B_USB_NA_MANUAL_06-26-19.pdf?dl=0)
 
 ## Configuration for SEGA 6-Button Controller (USB pad from Retro-Bit)
 Create a **Browser source in OBS** with a Width of **800** and Height of **600** and use this URL. (You may have to check your Switch Macros).
