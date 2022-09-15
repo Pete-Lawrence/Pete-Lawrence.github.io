@@ -10,22 +10,12 @@ SEGA 6-Button Mega Drive/Genesis skin for Mr McPowned's Gamepad Viewer by [Peter
 
 ## Configuration for SEGA 6-Button Controller (USB pad from Retro-Bit)
 Create a **Browser source in OBS** with a Width of **800** and Height of **600** and use this URL.
-<br>Note: You may have to check your Switch Macros and have the controller set to X Input mode.
-* [Configuration for SEGA 6-Button Controller (USB pad from Retro-Bit)](https://gamepadviewer.com/?p=1&css=https%3A%2F%2Fpete-lawrence.github.io%2F6-button%2Fskin.css&map=%7B%22mapping%22%3A%5B%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%225%22%2C%22disabled%22%3Afalse%2C%22choiceType%22%3A%22buttons%22%2C%22choice%22%3A%226%22%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%227%22%2C%22disabled%22%3Afalse%2C%22choiceType%22%3A%22buttons%22%2C%22choice%22%3A%225%22%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%224%22%2C%22disabled%22%3Afalse%2C%22choiceType%22%3A%22buttons%22%2C%22choice%22%3A%227%22%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%226%22%2C%22disabled%22%3Afalse%2C%22choiceType%22%3A%22buttons%22%2C%22choice%22%3A%224%22%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%2212%22%2C%22disabled%22%3Afalse%2C%22choiceOperand%22%3A%22-%22%2C%22choiceType%22%3A%22axes%22%2C%22choice%22%3A%221%22%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%2213%22%2C%22disabled%22%3Afalse%2C%22choiceOperand%22%3A%22%2B%22%2C%22choiceType%22%3A%22axes%22%2C%22choice%22%3A%221%22%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%2214%22%2C%22disabled%22%3Afalse%2C%22choiceOperand%22%3A%22-%22%2C%22choiceType%22%3A%22axes%22%2C%22choice%22%3A%220%22%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%2215%22%2C%22disabled%22%3Afalse%2C%22choiceOperand%22%3A%22%2B%22%2C%22choiceType%22%3A%22axes%22%2C%22choice%22%3A%220%22%7D%5D%7D)
-
-
-## Enable Additional Trigger Buttons (optional).
-**Copy and paste the css code into "custom CSS" in the browser window for OBS to add the skin.**
-<br>Note: You will have to wait around 20 seconds before it updates so don't panic if it doesn't instantly work.
+<br>Note: You may have to check your Switch Macros. Set the controller set to X Input mode, and enable D-Pad input.
+* [Configuration for SEGA 6-Button Controller (USB pad from Retro-Bit)](https://gamepadviewer.com/?p=1&css=https%3A%2F%2Fpete-lawrence.github.io%2F6-button%2Fskin.css)
 
 ---
 
+## Enable Additional Trigger Buttons (optional).
+
 ![Additional Trigger Buttons](https://pete-lawrence.github.io/6-button/svg/6button_triggers.png)
-
-Additional Trigger Buttons css.
-
-```css
-.custom .triggers { background: url(svg/6button-triggers.svg); }
-.custom .trigger.left { background: url(svg/6button-triggers-L.svg); }
-.custom .trigger.right { background: url(svg/6button-triggers-R.svg); }
-```
+* [Configuration for SEGA 6-Button Controller Plus Trigger Buttons (USB pad from Retro-Bit)](https://gamepadviewer.com/?p=1&css=https%3A%2F%2Fpete-lawrence.github.io%2F6-button%2Fskin_triggers.css)
