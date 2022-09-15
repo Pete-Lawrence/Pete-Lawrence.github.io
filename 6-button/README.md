@@ -25,24 +25,7 @@ Create a **Browser source in OBS** with a Width of **800** and Height of **600**
 Additional Trigger Buttons css.
 
 ```css
-.custom .triggers {
-background: url(svg/6button-triggers.svg);
-    position: absolute;
-    width: 800px;
-    height: 600px;
-}
-
-.custom .trigger.left {
-background: url(svg/6button-triggers-L.svg);
-    position: absolute;
-    width: 800px;
-    height: 600px;
-}
-
-.custom .trigger.right {
-background: url(svg/6button-triggers-R.svg);
-    position: absolute;
-    width: 800px;
-    height: 600px;
-}
+.custom .triggers { background: url(svg/6button-triggers.svg); }
+.custom .trigger.left { background: url(svg/6button-triggers-L.svg); }
+.custom .trigger.right { background: url(svg/6button-triggers-R.svg); }
 ```
