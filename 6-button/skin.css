@@ -54,6 +54,28 @@ background: url(svg/6button-buttons-start.svg);
 z-index: 1;
 }
 
+/*Optional Triggers, enabled with Custom CSS*/
+.custom .triggers {
+/*background: url(svg/6button-triggers.svg);*/
+    position: absolute;
+    width: 800px;
+    height: 600px;
+}
+
+.custom .trigger.left {
+/*background: url(svg/6button-triggers-L.svg);*/
+    position: absolute;
+    width: 800px;
+    height: 600px;
+}
+
+.custom .trigger.right {
+/*background: url(svg/6button-triggers-R.svg);*/
+    position: absolute;
+    width: 800px;
+    height: 600px;
+}
+
 /* Dpad possitioning and sizing */
 .custom .dpad{
     background: url(svg/6button-dpad.svg); 
