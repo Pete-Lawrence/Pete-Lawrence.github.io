@@ -11,26 +11,26 @@
 start button. 
 .custom .arrows{
     position: absolute;
-    width: 222px;
-    height: 195px;
-    top: 214px;
-    left: 358px;
+    width: 283px;
+    height: 140px;
+    top: 191px;
+    left: 374px;
 }
 */
 /* Positioning and size of the container for the face buttons */
 .custom .abxy{
     background: url(svg/6button-buttons.svg); 
     position: absolute;
-    width: 222px;
-    height: 195px;
-    top: 152px;
-    left: 452px;
+    width: 283px;
+    height: 140px;
+    top: 191px;
+    left: 374px;
 }
 /* base class used to simplify the sprite mapping */
 .custom .button{
     position: absolute;
-    width: 222px;
-    height: 195px;
+    width: 283px;
+    height: 140px;
 }
 
 .custom .a.pressed{
