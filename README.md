@@ -9,6 +9,9 @@ Welcome to my github page. I'm Peter Lawrence aka MegaSphere. Here is a list of 
 ## [SEGA 3-Button Mega Drive/Genesis](https://pete-lawrence.github.io/3-button)
 ![3 button Mega Drive](https://pete-lawrence.github.io/3-button/svg/3button.png)
 
+## [SEGA 6-Button Mega Drive/Genesis](https://pete-lawrence.github.io/6-button)
+![6 button Mega Drive](https://pete-lawrence.github.io/3-button/svg/6button.png)
+
 ## [StepManiaX](https://pete-lawrence.github.io/smx)
 ![StepManiaX](https://pete-lawrence.github.io/smx/png/SMX_preview.png)
 
