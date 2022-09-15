@@ -39,12 +39,12 @@ background: url(svg/6button-buttons-x.svg);
 background: url(svg/6button-buttons-y.svg);
 }
 
-.custom .bumper.left.pressed {
+.custom .bumper.right.pressed {
 background: url(svg/6button-buttons-z.svg);
 z-index: 1;
 }
 
-.custom .bumper.right.pressed {
+.custom .bumper.left.pressed {
 background: url(svg/6button-buttons-c.svg);
 z-index: 1;
 }
