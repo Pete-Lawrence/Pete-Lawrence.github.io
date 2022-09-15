@@ -27,7 +27,9 @@ start button.
     left: 374px;
 }
 /* base class used to simplify the sprite mapping */
-.custom .button{
+.custom .button,
+.custom .bumper,
+.custom .start{
     position: absolute;
     width: 283px;
     height: 140px;
