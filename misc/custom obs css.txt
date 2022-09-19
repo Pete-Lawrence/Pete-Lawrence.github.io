@@ -1,0 +1,30 @@
+.controller.xbox {
+    background: url(https://pete-lawrence.github.io/misc/xbox-base.svg);
+    height: 630px;
+    width: 750px;
+}
+
+.xbox .stick {
+    position: absolute;
+    background: url(https://pete-lawrence.github.io/misc/xbox-stick.svg);
+    background-position: -85px 0;
+    height: 83px;
+    width: 83px;
+}
+
+.xbox .button {
+    position: absolute;
+    background: url(https://pete-lawrence.github.io/misc/xbox-abxy.svg);
+    width: 48px;
+    height: 48px;
+}
+
+.xbox .quadrant {
+    position: absolute;
+    background: url();
+    height: 45px;
+    width: 45px;
+    top: 258px;
+    left: 354px;
+    z-index: 0;
+}
