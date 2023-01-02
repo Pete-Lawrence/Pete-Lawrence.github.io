@@ -30,7 +30,7 @@ background: url(png/SMX_spritesheet_Blue.png);
 background: url(png/SMX_spritesheet_Pink.png);
 }
 
-.custom .bumper.right.pressed{
+.custom .bumper.left.pressed{
 background: url(png/SMX_spritesheet_Green.png);
 }
 
