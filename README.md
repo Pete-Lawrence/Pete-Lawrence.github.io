@@ -59,6 +59,7 @@ Master Levels for Doom II is another official expansion pack for Doom II which a
 Skin I made for CamelCrusher, [knobs made in Blender](https://github.com/Pete-Lawrence/Pete-Lawrence.github.io/raw/master/camelcrusher-megasphere-skin/screenshots/MegaSphere_CamelCrusher_Skin_Knobvid.mp4). Removes useless preset panel.
 
 ## [MIDI practice](https://github.com/oxbridgeunited/midi)
+![MIDI practice](https://pete-lawrence.github.io/misc/midipracticelogo.png)
 [![Video Demostration](https://img.youtube.com/vi/iAqcozvcnQo/maxresdefault.jpg)](https://youtu.be/iAqcozvcnQo)
 
 CLI #C app made for yourself practicing getting quick at naming and identifying notes on the keyboard.
