@@ -12,8 +12,9 @@
 }
 
 .custom .button,
+.custom .back,
 .custom .bumper,
-.custom .trigger{
+.custom .triggers{
     position: absolute;
     width: 512px;
     height: 512px;
@@ -29,19 +30,19 @@ Comments refer to numpad notation.
 */
 
 /*1*/
-.custom .trigger.left.pressed{
+.custom .trigger-button.left.pressed{
 background: url(png/SMX_spritesheet_DownLeft.png);
 }
 
 /*2*/
-.custom .trigger.right.pressed{
+.custom .trigger-button.right.pressed{
 background: url(png/SMX_spritesheet_Pink.png);
     -webkit-transform: rotateX(180deg);
     transform: rotateX(180deg);
 }
 
 /*3*/
-.custom .button.back.pressed{
+.custom back.pressed{
 background: url(png/SMX_spritesheet_DownRight.png);
 }
 
@@ -56,6 +57,7 @@ background: url(png/SMX_spritesheet_Blue.png);
 .custom .bumper.left.pressed{
 background: url(png/SMX_spritesheet_Green.png);
 }
+
 
 /*6*/
 .custom .bumper.right.pressed{
