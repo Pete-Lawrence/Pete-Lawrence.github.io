@@ -14,7 +14,7 @@
 .custom .button,
 .custom .back,
 .custom .bumper,
-.custom .triggers{
+.custom .trigger-button{
     position: absolute;
     width: 512px;
     height: 512px;
@@ -42,7 +42,7 @@ background: url(png/SMX_spritesheet_Pink.png);
 }
 
 /*3*/
-.custom back.pressed{
+.custom .back.pressed{
 background: url(png/SMX_spritesheet_DownRight.png);
 }
 
