@@ -6,7 +6,6 @@ StepManiaX skin for Mr McPowned's Gamepad Viewer by [Peter Lawrence aka MegaSphe
 Designed for use with my idle and pressed GIFs here:
 * [Idle SMX GIF](https://github.com/Pete-Lawrence/Peters-Noteskins/blob/main/SMX-gifs/smx-idle.gif)
 * [Pressed SMX GIF](https://github.com/Pete-Lawrence/Peters-Noteskins/blob/main/SMX-gifs/pressed.gif)
-* [Pressed SMX GIF 5 Panel](https://github.com/Pete-Lawrence/Peters-Noteskins/blob/main/SMX-gifs/pressed-5-panel.gif)
 
 ## Configuration for StepManiaX
 Create a **Browser source in OBS** with a Width of **512** and Height of **512** and use the **URL** from one of the **configurations** below.
