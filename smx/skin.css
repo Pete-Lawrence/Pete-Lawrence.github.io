@@ -11,31 +11,72 @@
   100% { background-position: -30208px; }
 }
 
-
-.custom .button{
+.custom .button,
+.custom .bumper,
+.custom .trigger{
     position: absolute;
     width: 512px;
     height: 512px;
 }
 
-.custom .a.pressed{
+/*
+Comments refer to numpad notation.
+
+ 7 8 9
+ 4 5 6
+ 1 2 3
+
+*/
+
+/*1*/
+.custom .trigger.left.pressed{
+background: url(png/SMX_spritesheet_DownLeft.png);
+}
+
+/*2*/
+.custom .trigger.right.pressed{
 background: url(png/SMX_spritesheet_Pink.png);
     -webkit-transform: rotateX(180deg);
     transform: rotateX(180deg);
 }
-.custom .b.pressed{
-background: url(png/SMX_spritesheet_Blue.png);
+
+/*3*/
+.custom .button.back.pressed{
+background: url(png/SMX_spritesheet_DownRight.png);
 }
-.custom .x.pressed{
+
+/*4*/
+.custom .y.pressed{
 background: url(png/SMX_spritesheet_Blue.png);
     -webkit-transform: rotateY(180deg);
     transform: rotateY(180deg);
 }
-.custom .y.pressed{
+
+/*5*/
+.custom .bumper.left.pressed{
+background: url(png/SMX_spritesheet_Green.png);
+}
+
+/*6*/
+.custom .bumper.right.pressed{
+background: url(png/SMX_spritesheet_Blue.png);
+}
+
+/*7*/
+.custom .a.pressed{
+background: url(png/SMX_spritesheet_UpLeft.png);
+}
+
+/*8*/
+.custom .b.pressed{
 background: url(png/SMX_spritesheet_Pink.png);
 }
 
+/*9*/
+.custom .x.pressed{
+background: url(png/SMX_spritesheet_UpRight.png);
 }
+
 /* NOTE: You NEED to set this to exactly half the height of what is listed 
 for '.controller.custom' so when your skin is activated via player selection
 parameters (e.g. http://mrmcpowned.com/gamepad?p=1) it will be correctly
