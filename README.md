@@ -26,7 +26,7 @@ Welcome to my github page. I'm Peter Lawrence aka MegaSphere. Here is a list of 
 ## [Pride-HUD.wad](https://github.com/Pete-Lawrence/Pete-Lawrence.github.io/raw/master/doom/Pride-HUD.wad)
 ![Pride HUD](https://pete-lawrence.github.io/doom/screenshots/Pride-HUD.png)
 
-## [Pride-HUDwide.wad](https://github.com/Pete-Lawrence/Pete-Lawrence.github.io/raw/master/doom/Pride-HUD.wad)
+## [Pride-HUDwide.wad](https://github.com/Pete-Lawrence/Pete-Lawrence.github.io/raw/master/doom/Pride-HUDwide.wad)
 ![Pride HUD (wide)](https://pete-lawrence.github.io/doom/screenshots/Pride-HUDwide.png)
 
 Pride HUD I made and use for [charity events](https://www.youtube.com/watch?v=6siOprD21OM) that involve playing Classic Doom.
