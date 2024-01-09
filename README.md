@@ -38,7 +38,7 @@ Charity events including
 [#4](https://youtu.be/ii5U3VFUBtU).
 
 ## [Not Even Remotely Fair](https://www.doomworld.com/forum/topic/127913-not-even-remotely-fair-nightmare-difficulty-only/)
-![NERF-logo](https://static.doomworld.com/monthly_2022_03/NERF.png.9cd4c6d4972cb2803411aa96f10f6df2.png)
+![NERF-logo](https://static.doomworld.com/monthly_2023_12/NERF_LOGO.png.54eca17e5b644b6d58963e7de7a71489.png)
 
 Map pack with [all original soundtrack](https://www.youtube.com/watch?v=aOR-238gLxc) by me designed around the Nightmare! difficulty.
 
