@@ -1,0 +1,111 @@
+/*WIP
+See preview of new Default Button Mappings here:
+https://pete-lawrence.github.io/tekken/screenshots/controllers.png
+*/
+
+/*Controller Disconnected*/
+.custom.disconnected { background: url(https://gamepadviewer.com/stick-assets/disconnected.svgz) no-repeat; }
+.custom.disconnected div { display: none; }
+
+/*Button Panel*/
+.controller.custom {
+    background: url(tekken-base-new.svg) center no-repeat;
+    width: 256px;
+    height: 256px;
+	}
+
+/*Movement Inputs*/
+.custom .fstick {
+	position: absolute;
+	width: 256px;
+	height: 256px;
+	left: -256px;
+	background: url(tekken-new.svg);
+	transform: scale(0.5);
+	transform-origin: left;
+	}
+
+.custom .fstick.up,
+.custom .fstick.down,
+.custom .fstick.left,
+.custom .fstick.right,
+.custom .fstick.up.right,
+.custom .fstick.up.left,
+.custom .fstick.down.right,
+.custom .fstick.down.left {
+	width: 304px;
+	left: -192px;
+	background-position-x: -464px;
+	}
+
+.custom .fstick.up			{ transform: scale(0.5) rotate(270deg);	}
+.custom .fstick.down		{ transform: scale(0.5) rotate(90deg);	}
+.custom .fstick.left		{ transform: scale(0.5) rotate(180deg);	}
+.custom .fstick.right		{ transform: scale(0.5) rotate(0deg);	}
+.custom .fstick.up.right	{ transform: scale(0.5) rotate(315deg);	}
+.custom .fstick.up.left		{ transform: scale(0.5) rotate(225deg);	}
+.custom .fstick.down.right	{ transform: scale(0.5) rotate(45deg);	}
+.custom .fstick.down.left	{ transform: scale(0.5) rotate(135deg); }
+
+
+/*Buttons*/
+.custom .button,
+.custom .start,
+.custom .back,
+.custom .stick,
+.custom .bumper,
+.custom .trigger-button {
+	top: 0px;
+	right: 0px;
+    position: absolute;
+	width: 256px;
+	height: 256px;
+	opacity: 0;
+	background: url(tekken-buttons-new.svg);
+}
+.custom .button.x.pressed { opacity: 1;	background-position-x: -0px;		} /*1*/
+.custom .button.y.pressed { opacity: 1;	background-position-x: -256px;	} /*2*/
+.custom .button.a.pressed { opacity: 1;	background-position-x: -512px;	} /*3*/
+.custom .button.b.pressed { opacity: 1;	background-position-x: -768px;	} /*4*/
+
+/* .custom .stick.left.pressed			{ opacity: 1;	background-position-x: 0px;		} */
+.custom .stick.right.pressed			{ opacity: 1;	background-position-x: -3584px;	} /*1+2+3+4*/
+.custom .bumper.left.pressed			{ opacity: 1;	background-position-x: -3328px;	} /*1+4*/
+.custom .trigger-button.left.pressed	{ opacity: 1;	background-position-x: -3072px;	} /*2+3*/
+
+/* .custom .start.pressed		{ opacity: 1;	background-position-x: 0px;	} */
+/* .custom .back.pressed		{ opacity: 1;	background-position-x: 0px;	} */
+
+/*Rage Art*/
+.custom .bumper.right.pressed {
+	top: -80px;
+	left: 130px;
+	opacity: 1;
+	background: url(tekken-new.svg);
+	background-position-x: -768px;
+	transform: scale(0.35);
+	}
+
+/*Heat Drive*/
+.custom .trigger-button.right.pressed {
+	top: 0px;
+	left: 175px;
+	opacity: 1;
+	background: url(tekken-new.svg);
+	background-position-x: -1024px;
+	transform: scale(0.35);
+	}
+
+/*TODO
+Left Stick
+L = 1+3 background-position-x: -1792px;	}
+U = 1+2 background-position-x: -1024px;	}
+D = 3+4 background-position-x: -1536px;	}
+R = 2+4 background-position-x: -1280px;	}
+
+Right Stick (Fix distortion when moving the stick)
+L = 1+2+3 background-position-x: -2816px;	}
+U = 1+2+4 background-position-x: -2048px;	}
+D = 1+3+4 background-position-x: -2560px;	}
+R = 2+3+4 background-position-x: -2304px;	}
+*/

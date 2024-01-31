@@ -1,1 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 256 256"><path d="M580 164h-4a52 52 0 1 1 28-96v-4a52 52 0 1 1 96 28h4a52 52 0 1 1-28 96v4a52 52 0 1 1-96-28Z" style="fill:#111" transform="translate(-512)"/><circle cx="704" cy="64" r="64" style="fill:#313339" transform="matrix(.625 0 0 .625 -376 72)"/><circle cx="704" cy="64" r="64" style="fill:#313339" transform="matrix(.625 0 0 .625 -328 152)"/><circle cx="704" cy="64" r="64" style="fill:#313339" transform="matrix(.625 0 0 .625 -296 24)"/><circle cx="704" cy="64" r="64" style="fill:#313339" transform="matrix(.625 0 0 .625 -248 104)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" width="256px" height="256px" viewBox="0 0 256 256">
+  <path d="M580 164h-4a52 52 0 1 1 28-96v-4a52 52 0 1 1 96 28h4a52 52 0 1 1-28 96v4a52 52 0 1 1-96-28Z" style="fill:#111" transform="translate(-512)"/>
+  <circle cx="704" cy="64" r="64" style="fill:#313339" transform="matrix(.625 0 0 .625 -376 72)"/>
+  <circle cx="704" cy="64" r="64" style="fill:#313339" transform="matrix(.625 0 0 .625 -328 152)"/>
+  <circle cx="704" cy="64" r="64" style="fill:#313339" transform="matrix(.625 0 0 .625 -296 24)"/>
+  <circle cx="704" cy="64" r="64" style="fill:#313339" transform="matrix(.625 0 0 .625 -248 104)"/>
+</svg>
