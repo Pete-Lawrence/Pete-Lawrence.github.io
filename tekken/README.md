@@ -1,5 +1,105 @@
 # [Pete-Lawrence.github.io](https://pete-lawrence.github.io)
 # [Tekken-Gamepad](https://pete-lawrence.github.io/tekken)
+![Tekken-Gamepad-Preview](https://pete-lawrence.github.io/tekken/screenshots/gamepad-new.png)
+## Tekken 8
+Create a **Browser source in OBS** with a Width of **1536** and Height of **512**. For the URL, use this [https://gamepadviewer.com/?p=1&css=https://pete-lawrence.github.io/tekken/tekken-new.css](https://gamepadviewer.com/?p=1&css=https%3A%2F%2Fpete-lawrence.github.io%2Ftekken%2Ftekken-new.css)
+
+To set your button mappings, there's no need to mess with gamepadviewer's remap this time around. Paste this into Custom CSS and modify it fit your mappings. I've tried to make it as straight forward as possible even if you're unfamiliar with CSS. You just edit the value of **background-position-x:** per button, that's all!
+
+```css
+/*X / Square*/
+.custom .button.x.pressed { opacity: 1; 
+background-position-x: -512px;	} /*1*/
+
+/*Y / Triangle*/
+.custom .button.y.pressed { opacity: 1; 
+background-position-x: -1024px;	} /*2*/
+
+/*A / Cross*/ .custom .button.a.pressed { opacity: 1; 
+background-position-x: -1536px;	} /*3*/
+
+/*B / Circle*/ .custom .button.b.pressed { opacity: 1; 
+background-position-x: -2048px;	} /*4*/
+
+
+/*RB / R1*/ .custom .bumper.right.pressed { opacity: 1; 
+background-position-x: -8192px;	} /*HEAT*/
+
+/*RT / R2*/ .custom .trigger-button.right.pressed { opacity: 1; 
+background-position-x: -8704px;	} /*RAGE*/
+
+/*RS / R3*/ .custom .stick.right.pressed { opacity: 1; 
+background-position-x: 0px;	} /*NONE*/
+
+
+/*LB /L1*/ .custom .bumper.left.pressed { opacity: 1; 
+background-position-x: 0px;	} /*NONE*/
+
+/*LT /L2*/ .custom .trigger-button.left.pressed { opacity: 1; 
+background-position-x: 0px;	} /*NONE*/
+
+/*LS /L3*/ .custom .stick.left.pressed { opacity: 1; 
+background-position-x: 0px;	} /*NONE*/
+
+
+/*Start (Menu) / Options*/ .custom .start.pressed { opacity: 1; 
+background-position-x: 0px;	} /*NONE*/
+
+/*Back (View) / Touchpad*/ .custom .back.pressed { opacity: 1; 
+background-position-x: 0px;	} /*NONE*/
+
+/*		MAPPINGS LIST
+/*		
+/*		background-position-x: 0px;	} /*NONE*/
+/*		
+/*		background-position-x: -512px;	} /*1*/
+/*		background-position-x: -1024px;	} /*2*/
+/*		background-position-x: -1536px;	} /*3*/
+/*		background-position-x: -2048px;	} /*4*/
+/*
+/*		background-position-x: -2560px;	} /*1+2*/
+/*		background-position-x: -3072px;	} /*2+4*/
+/*		background-position-x: -3584px;	} /*3+4*/
+/*		background-position-x: -4096px;	} /*1+3*/
+/*		
+/*		background-position-x: -4608px;	} /*1+2+4*/
+/*		background-position-x: -5120px;	} /*2+3+4*/
+/*		background-position-x: -5632px;	} /*1+3+4*/
+/*		background-position-x: -6144px;	} /*1+2+3*/
+/*		
+/*		background-position-x: -6656px;	} /*2+3*/
+/*		background-position-x: -7168px;	} /*1+4*/
+/*		
+/*		background-position-x: -7680px;	} /*1+2+3+4*/
+/*		
+/*		background-position-x: -8192px;	} /*HEAT*/
+/*		background-position-x: -8704px;	} /*RAGE*/
+```
+Extra Skins still WIP although if you want PC/Xbox styled buttons add this to Custom CSS as well
+![Tekken-Gamepad-Preview](https://pete-lawrence.github.io/tekken/screenshots/gamepad-new-pc.png)
+```css
+/*Buttons*/
+.custom .button,
+.custom .start,
+.custom .back,
+.custom .stick,
+.custom .bumper,
+.custom .trigger-button {
+	top: 0px;
+	right: 0px;
+    position: absolute;
+	width: 512px;
+	height: 256px;
+	opacity: 0;
+	background: url(https://pete-lawrence.github.io/tekken/tekken-buttons-pc.svg);
+}
+```
+---
+
+# Legacy Tekken Gamepad Viewer Below
+## (None of this applies to Tekken 8 Gamepad Viewer above)
+---
+
 ![default pc/xbox style](https://pete-lawrence.github.io/tekken/screenshots/gamepad-pc.png)
 ### Video example: [https://www.youtube.com/watch?v=fvnVDxeJVcg](https://www.youtube.com/watch?v=fvnVDxeJVcg)
 Tekken skin for Mr McPowned's Gamepad Viewer by [Peter Lawrence aka MegaSphere](https://www.youtube.com/c/PeterLawrenceYT/videos) for OBS.
