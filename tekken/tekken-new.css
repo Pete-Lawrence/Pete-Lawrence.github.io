@@ -1,16 +1,11 @@
-/*WIP
-See preview of new Default Button Mappings here:
-https://pete-lawrence.github.io/tekken/screenshots/controllers.png
-*/
-
 /*Controller Disconnected*/
 .custom.disconnected { background: url(https://gamepadviewer.com/stick-assets/disconnected.svgz) no-repeat; }
 .custom.disconnected div { display: none; }
 
 /*Button Panel*/
 .controller.custom {
-    background: url(tekken-base-new.svg) center no-repeat;
-    width: 256px;
+    background: url(tekken-new.svg) left no-repeat;
+    width: 512px;
     height: 256px;
 	}
 
@@ -23,6 +18,7 @@ https://pete-lawrence.github.io/tekken/screenshots/controllers.png
 	background: url(tekken-new.svg);
 	transform: scale(0.5);
 	transform-origin: left;
+	background-position-x: -512px;
 	}
 
 .custom .fstick.up,
@@ -33,9 +29,9 @@ https://pete-lawrence.github.io/tekken/screenshots/controllers.png
 .custom .fstick.up.left,
 .custom .fstick.down.right,
 .custom .fstick.down.left {
-	width: 304px;
+	width: 384px;
 	left: -192px;
-	background-position-x: -464px;
+	background-position-x: -832px;
 	}
 
 .custom .fstick.up			{ transform: scale(0.5) rotate(270deg);	}
@@ -58,54 +54,64 @@ https://pete-lawrence.github.io/tekken/screenshots/controllers.png
 	top: 0px;
 	right: 0px;
     position: absolute;
-	width: 256px;
+	width: 512px;
 	height: 256px;
 	opacity: 0;
 	background: url(tekken-buttons-new.svg);
 }
-.custom .button.x.pressed { opacity: 1;	background-position-x: -0px;		} /*1*/
-.custom .button.y.pressed { opacity: 1;	background-position-x: -256px;	} /*2*/
-.custom .button.a.pressed { opacity: 1;	background-position-x: -512px;	} /*3*/
-.custom .button.b.pressed { opacity: 1;	background-position-x: -768px;	} /*4*/
+		/* COPY AND PASTE INTO CUSTOM CSS FROM HERE */
+		/* COPY AND PASTE INTO CUSTOM CSS FROM HERE */
+		/* COPY AND PASTE INTO CUSTOM CSS FROM HERE */
 
-/* .custom .stick.left.pressed			{ opacity: 1;	background-position-x: 0px;		} */
-.custom .stick.right.pressed			{ opacity: 1;	background-position-x: -3584px;	} /*1+2+3+4*/
-.custom .bumper.left.pressed			{ opacity: 1;	background-position-x: -3328px;	} /*1+4*/
-.custom .trigger-button.left.pressed	{ opacity: 1;	background-position-x: -3072px;	} /*2+3*/
+/* MODIFY VALUES FOR background-position-x: BELOW TO SET YOUR BUTTON MAPPINGS */
+/* LIST OF background-position-x: VALUES BELOW */
 
-/* .custom .start.pressed		{ opacity: 1;	background-position-x: 0px;	} */
-/* .custom .back.pressed		{ opacity: 1;	background-position-x: 0px;	} */
+	/*X / Square	*/ .custom .button.x.pressed { opacity: 1;	background-position-x: -512px;	} /*1*/
+	/*Y / Triangle	*/ .custom .button.y.pressed { opacity: 1;	background-position-x: -1024px;	} /*2*/
+	/*A / Cross		*/ .custom .button.a.pressed { opacity: 1;	background-position-x: -1536px;	} /*3*/
+	/*B / Circle	*/ .custom .button.b.pressed { opacity: 1;	background-position-x: -2048px;	} /*4*/
 
-/*Rage Art*/
-.custom .bumper.right.pressed {
-	top: -80px;
-	left: 130px;
-	opacity: 1;
-	background: url(tekken-new.svg);
-	background-position-x: -768px;
-	transform: scale(0.35);
-	}
+	/*RB / R1	*/ .custom .bumper.right.pressed			{ opacity: 1;	background-position-x: -8192px;	} /*HEAT*/
+	/*RT / R2	*/ .custom .trigger-button.right.pressed	{ opacity: 1;	background-position-x: -8704px;	} /*RAGE*/
+	/*RS / R3	*/ .custom .stick.right.pressed				{ opacity: 1;	background-position-x: 0px;	} /*NONE*/
 
-/*Heat Drive*/
-.custom .trigger-button.right.pressed {
-	top: 0px;
-	left: 175px;
-	opacity: 1;
-	background: url(tekken-new.svg);
-	background-position-x: -1024px;
-	transform: scale(0.35);
-	}
+	/*LB /L1	*/ .custom .bumper.left.pressed				{ opacity: 1;	background-position-x: 0px;	} /*NONE*/
+	/*LT /L2	*/ .custom .trigger-button.left.pressed		{ opacity: 1;	background-position-x: 0px;	} /*NONE*/
+	/*LS /L3	*/ .custom .stick.left.pressed				{ opacity: 1;	background-position-x: 0px;	} /*NONE*/
 
-/*TODO
-Left Stick
-L = 1+3 background-position-x: -1792px;	}
-U = 1+2 background-position-x: -1024px;	}
-D = 3+4 background-position-x: -1536px;	}
-R = 2+4 background-position-x: -1280px;	}
+	/*Start (Menu) / Options*/ .custom .start.pressed		{ opacity: 1;	background-position-x: 0px;	} /*NONE*/
+	/*Back (View) / Touchpad*/ .custom .back.pressed		{ opacity: 1;	background-position-x: 0px;	} /*NONE*/
 
-Right Stick (Fix distortion when moving the stick)
-L = 1+2+3 background-position-x: -2816px;	}
-U = 1+2+4 background-position-x: -2048px;	}
-D = 1+3+4 background-position-x: -2560px;	}
-R = 2+3+4 background-position-x: -2304px;	}
-*/
+			/* COPY AND PASTE INTO CUSTOM CSS TO HERE */
+			/* COPY AND PASTE INTO CUSTOM CSS TO HERE */
+			/* COPY AND PASTE INTO CUSTOM CSS TO HERE */
+
+			/* LIST OF background-position-x: VALUES HERE */
+			/* LIST OF background-position-x: VALUES HERE */
+			/* LIST OF background-position-x: VALUES HERE */
+/*		MAPPINGS
+/*		
+/*		background-position-x: 0px;	} /*NONE*/
+/*		
+/*		background-position-x: -512px;	} /*1*/
+/*		background-position-x: -1024px;	} /*2*/
+/*		background-position-x: -1536px;	} /*3*/
+/*		background-position-x: -2048px;	} /*4*/
+/*		
+/*		background-position-x: -2560px;	} /*1+2*/
+/*		background-position-x: -3072px;	} /*2+4*/
+/*		background-position-x: -3584px;	} /*3+4*/
+/*		background-position-x: -4096px;	} /*1+3*/
+/*		
+/*		background-position-x: -4608px;	} /*1+2+4*/
+/*		background-position-x: -5120px;	} /*2+3+4*/
+/*		background-position-x: -5632px;	} /*1+3+4*/
+/*		background-position-x: -6144px;	} /*1+2+3*/
+/*		
+/*		background-position-x: -6656px;	} /*2+3*/
+/*		background-position-x: -7168px;	} /*1+4*/
+/*		
+/*		background-position-x: -7680px;	} /*1+2+3+4*/
+/*		
+/*		background-position-x: -8192px;	} /*HEAT*/
+/*		background-position-x: -8704px;	} /*RAGE*/
