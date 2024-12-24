@@ -1,0 +1,91 @@
+.controller.custom{
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+  width: 512px;
+  height: 512px;
+  background: url(png/SMX_preview_P.png) left center;
+}
+
+.custom .button,
+.custom .back,
+.custom .bumper,
+.custom .trigger-button{
+    position: absolute;
+    width: 512px;
+    height: 512px;
+}
+
+/*
+Comments refer to numpad notation.
+
+ 7 8 9
+ 4 5 6
+ 1 2 3
+
+*/
+
+/*1*/
+.custom .trigger-button.left.pressed{
+background: url(png/SMX_spritesheet_DownLeft_P.png);
+}
+
+/*2*/
+/* Unused in this layout
+.custom .trigger-button.right.pressed{
+background: url(png/SMX_spritesheet_Pink.png);
+    -webkit-transform: rotateX(180deg);
+    transform: rotateX(180deg);
+}
+*/
+
+/*3*/
+.custom .back.pressed{
+background: url(png/SMX_spritesheet_DownRight_P.png);
+}
+
+/*4*/
+/* Unused in this layout
+.custom .y.pressed{
+background: url(png/SMX_spritesheet_Blue.png);
+    -webkit-transform: rotateY(180deg);
+    transform: rotateY(180deg);
+}
+*/
+
+/*5*/
+.custom .bumper.left.pressed{
+background: url(png/SMX_spritesheet_Centre_P.png);
+}
+
+
+/*6*/
+/* Unused in this layout
+.custom .bumper.right.pressed{
+background: url(png/SMX_spritesheet_Blue.png);
+}
+*/
+
+/*7*/
+.custom .a.pressed{
+background: url(png/SMX_spritesheet_UpLeft_P.png);
+}
+
+/*8*/
+/* Unused in this layout
+.custom .b.pressed{
+background: url(png/SMX_spritesheet_Pink.png);
+}
+*/
+
+/*9*/
+.custom .x.pressed{
+background: url(png/SMX_spritesheet_UpRight_P.png);
+}
+
+/* NOTE: You NEED to set this to exactly half the height of what is listed 
+for '.controller.custom' so when your skin is activated via player selection
+parameters (e.g. http://mrmcpowned.com/gamepad?p=1) it will be correctly
+centered on screen. */
+.custom.half{
+    margin-top: -256px;
+}
