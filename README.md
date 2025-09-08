@@ -67,6 +67,5 @@ CLI #C app made for yourself practicing getting quick at naming and identifying 
 # Music Links (MegaSphere)
 ### [Bandcamp](https://megasphere.bandcamp.com/)
 ### [Spotify](https://open.spotify.com/artist/7zKw7UIIFCd52qXnM7tQ24)
-### [Soundcloud](https://soundcloud.com/megasphere)
 ### [YouTube](https://www.youtube.com/c/MegaSphere/videos)
 ### [Newgrounds](https://megasphere.newgrounds.com/audio)
